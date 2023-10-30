@@ -33,5 +33,5 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
     - [🎭 Personality Traits](#-personality-traits)
   - [📚 Resources](#-resources)
     - [🏗Projects](#-projects)
-
+1
 
