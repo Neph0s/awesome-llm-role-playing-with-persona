@@ -28,10 +28,44 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
   - [🔔 News](#-news)
   - [📜Content](#content)
   - [📑 Papers](#-papers)
-    - [🔍Overview](#-overview)
-    - [💫 Role-Playing/Persona](#-role-playing-persona)
+    - [🧙 Role-Playing/Persona](#-role-playing-persona)
     - [🎭 Personality Traits](#-personality-traits)
+    - [🧠 Other Psychological Topics](#-other-psychological-topics)
   - [📚 Resources](#-resources)
     - [🏗Projects](#-projects)
-1
 
+### 🧙 Role-Playing/Persona
+
+1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model**
+
+   *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
+
+2. **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**
+
+   *Xintao Wang, Xintao Wang, Yaying Fei, Ziang Leng, Cheng Li.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
+
+### 🎭 Personality Traits
+
+1. **Personality Traits in Large Language Models**
+
+   *Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić.* [[abs](https://arxiv.org/abs/2307.00184)], 2023.7
+
+### 🧠 Other Psychological Topics
+
+1. **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
+
+   *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
+
+---
+
+## 💡  Contribution
+
+### Contributing to this repo
+
+🤲" **Join us in improving this repository!** Spotted any notable works we might have missed? We welcome your additions. Every contribution counts!   "
+
+### Contributors
+
+<a href="https://github.com/Neph0s/awesome-llm-role-playing-with-persona/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Neph0s/awesome-llm-role-playing-with-persona" />
+</a>
