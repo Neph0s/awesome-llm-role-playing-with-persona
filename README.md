@@ -11,6 +11,6 @@ Awesome-llm-role-playing-with-persona: a curated list of large language models f
 
 *"Here are some other paper lists you might be interested in:*
 
-💡 **[Persona Paper](https://github.com/Sahandfer/PersonaPaper):**![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg) A list of papers related to persona-based dialogue systems and personalized response generation.
+💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg)**[Persona Paper](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
 
-🔬 **[KnowledgeditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers):**  Must-read papers on knowledge editing for large language models.
+🔬 ![Last Commit](https://img.shields.io/github/last-commit/penguinnnnn/awesome-llm-and-society.svg)**[LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society):**  Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.
