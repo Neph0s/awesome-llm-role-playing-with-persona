@@ -28,13 +28,16 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
   - [🔔 News](#-news)
   - [📜Content](#content)
   - [📑 Papers](#-papers)
-    - [🧙 Role-Playing/Persona](#-role-playing-persona)
+    - [🧙 Role-Playing](#-role-playing)
+      - [🤖 Role-Playing Agents](#-role-playing-agents)
+      - [#️⃣ Celebrity/Stereotype](#-celebrity-stereotype)
     - [🎭 Personality Traits](#-personality-traits)
+    - [#️⃣ Stereotype](#-stereotype)
     - [🧠 Other Psychological Topics](#-other-psychological-topics)
   - [📚 Resources](#-resources)
     - [🏗Projects](#-projects)
 
-### 🧙 Role-Playing/Persona
+### 🧙 Role-Playing
 
 1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model**
 
@@ -46,15 +49,30 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 ### 🎭 Personality Traits
 
+#### 🤖 Role-Playing Agents
+
 1. **Personality Traits in Large Language Models**
 
    *Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić.* [[abs](https://arxiv.org/abs/2307.00184)], 2023.7
+
+#### #️⃣ Celebrity/Stereotype
+
+1. **Expertprompting: Instructing large language models to be distinguished experts**
+
+   *Benfeng Xu , An Yang , Junyang Lin , Quan Wang , Chang Zhou, Yongdong Zhang and Zhendong Mao.* [[abs](https://arxiv.org/abs/2305.14688)], 2023.5
+
+2. **Toxicity in CHATGPT: Analyzing Persona-assigned Language Models**
+
+   *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2304.05335)], 2023.4
 
 ### 🧠 Other Psychological Topics
 
 1. **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
 
    *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
+
+2. **Role-Play with Large Language Models**
+   *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
 
 ---
 
