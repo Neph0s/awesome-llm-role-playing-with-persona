@@ -28,16 +28,19 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
   - [🔔 News](#-news)
   - [📜Content](#content)
   - [📑 Papers](#-papers)
-    - [🧙 Role-Playing](#-role-playing)
-      - [🤖 Role-Playing Agents](#-role-playing-agents)
+    - [🧙 Persona](#-persona)
+      - [🧙 Role-Playing Agents / Fictional Characters](#-role-playing-agents-fictional-characters)
       - [#️⃣ Celebrity/Stereotype](#-celebrity-stereotype)
+      - [🤖 Personalized Agents](#-personalized-agents)
     - [🎭 Personality Traits](#-personality-traits)
-    - [#️⃣ Stereotype](#-stereotype)
     - [🧠 Other Psychological Topics](#-other-psychological-topics)
+    - [🌐 Others](#-others)
   - [📚 Resources](#-resources)
     - [🏗Projects](#-projects)
 
 ### 🧙 Role-Playing
+
+#### 🧙 Role-Playing Agents / Fictional Characters
 
 1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model**
 
@@ -46,14 +49,6 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 2. **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**
 
    *Xintao Wang, Xintao Wang, Yaying Fei, Ziang Leng, Cheng Li.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
-
-### 🎭 Personality Traits
-
-#### 🤖 Role-Playing Agents
-
-1. **Personality Traits in Large Language Models**
-
-   *Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić.* [[abs](https://arxiv.org/abs/2307.00184)], 2023.7
 
 #### #️⃣ Celebrity/Stereotype
 
@@ -65,6 +60,23 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2304.05335)], 2023.4
 
+#### 🤖 Personalized Agents
+
+1. **MPCHAT: Towards Multimodal Persona-Grounded Conversation**
+
+   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim.* [[abs](https://arxiv.org/abs/2305.17388)], 2023.5. Tags: multimodal persona.
+
+2. **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**
+
+   *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2306.08401)], 2023.6. Tags: streamer persona.
+
+### 🎭 Personality Traits
+
+1. **Personality Traits in Large Language Models**
+
+   *Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić.* [[abs](https://arxiv.org/abs/2307.00184)], 2023.7
+
+
 ### 🧠 Other Psychological Topics
 
 1. **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
@@ -73,6 +85,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 2. **Role-Play with Large Language Models**
    *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
+
+### 🌐 Others
+
 
 ---
 
