@@ -88,6 +88,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 3. **Better Zero-Shot Reasoning with Role-Play Prompting**
    *Aobo Kong, Shiwan Zhao, Hao Chen, Qicheng Li, Yong Qin, Ruiqi Sun, Xin Zhou.* [[abs](https://arxiv.org/abs/2308.07702)], 2023.8
 
+4. **Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**
+   *Shashank Gupta, Vaishnavi Shrivastava, Ameet Deshpande, Ashwin Kalyan, Peter Clark, Ashish Sabharwal, Tushar Khot* [[abs](https://arxiv.org/abs/2311.04892)], 2023.11
+
 #### 🤖 Personalized AI
 
 1. **MPCHAT: Towards Multimodal Persona-Grounded Conversation**
@@ -103,6 +106,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 4. **Personalizing Dialogue Agents: I have a dog, do you have pets too?** 
    *Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston.* [[abs](https://arxiv.org/abs/1801.07243)], ACL 2018.
+
+5. **On the steerability of large language models toward data-driven personas**
+   *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://arxiv.org/abs/2311.04978)], 2023.11.
 
 ### 👥 Multi Agents
 
