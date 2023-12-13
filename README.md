@@ -55,9 +55,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], 2023.10
 
-4. **Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances.**
+4. **Character-LLM: A Trainable Agent for Role-Playing.**
 
-   *Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang.*, [[abs](https://arxiv.org/abs/2204.10825)], NAACL 2022
+   *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
 
 5. **Thespian: Multi-Character Text Role-Playing Game Agents.**
 
@@ -66,15 +66,20 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 6. **NarrativePlay: Interactive Narrative Understanding.**
    *Runcong Zhao, Wenjia Zhang, Jiazheng Li, Lixing Zhu, Yanran Li, Yulan He, Lin Gui.*, [[abs](https://arxiv.org/abs/2310.01459)], 2023.10
 
-7. **Character-LLM: A Trainable Agent for Role-Playing.**
+7. **Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances.**
 
-   *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
+   *Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang.*, [[abs](https://arxiv.org/abs/2204.10825)], NAACL 2022
 
 8. **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters.**
 
    *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li.*, [[abs](https://arxiv.org/abs/2211.06869)], 2022.11
 
+9. **“Let Your Characters Tell Their Story”: A Dataset for Character-Centric Narrative Understanding**
+   *Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan, Snigdha Chaturvedi.*, [[abs](https://aclanthology.org/2021.findings-emnlp.150/)], EMNLP findings 2021
 
+10. **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
+
+   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 #### #️⃣ Celebrity/Stereotype
 
 1. **Expertprompting: Instructing large language models to be distinguished experts**
@@ -90,6 +95,8 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 4. **Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**
    *Shashank Gupta, Vaishnavi Shrivastava, Ameet Deshpande, Ashwin Kalyan, Peter Clark, Ashish Sabharwal, Tushar Khot* [[abs](https://arxiv.org/abs/2311.04892)], 2023.11
+5. **Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts.**
+   *Mingqian Zheng, Jiaxin Pei, David Jurgens* [[abs](https://arxiv.org/abs/2311.10054)], 2023.11
 
 #### 🤖 Personalized AI
 
@@ -110,6 +117,19 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 5. **On the steerability of large language models toward data-driven personas**
    *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://arxiv.org/abs/2311.04978)], 2023.11.
 
+
+6. **LaMP: When Large Language Models Meet Personalization**
+   *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani* [[abs](https://arxiv.org/abs/2304.11406)], 2023.04.
+
+7. **Personalized Reward Learning with Interaction-Grounded Learning (IGL)**
+   *Jessica Maghakian, Paul Mineiro, Kishan Panaganti, Mark Rucker, Akanksha Saran, Cheng Tan* [[abs](https://arxiv.org/abs/2211.15823)], 2022.11.
+
+8. **When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**
+   *Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen* [[abs](https://arxiv.org/abs/2307.16376)], 2023.07.
+
+9. **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**
+   *Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi* [[abs](https://arxiv.org/abs/2312.00763)], 2023.12.
+
 ### 👥 Multi Agents
 
 1. **Generative Agents: Interactive Simulacra of Human Behavior**
@@ -117,6 +137,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 2. **AVALONBENCH: Evaluating LLMs Playing the Game of Avalon.**
    *Jonathan Light, Min Cai, Sheng Shen, Ziniu Hu.* [[abs](https://arxiv.org/abs/2310.05036)], 2023.10.
+
+3. **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars.**
+   *Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby Hemphill, Yongfeng Zhang.* [[abs](https://arxiv.org/abs/2311.17227)], 2023.11.
 
 
 ### 🎭 Personality Traits
@@ -159,6 +182,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 10. **PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences.**
 
    *Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara.*, [[abs](https://arxiv.org/abs/2305.02547)], 2023.5
+
+11. **MBTI Personality Prediction for Fictional Characters Using Movie Scripts**
+   *Yisi Sang, Xiangyang Mou, Mo Yu, Dakuo Wang, Jing Li, Jeffrey Stanton.*, [[abs](https://arxiv.org/abs/2210.10994)], EMNLP 2022
 
 
 
