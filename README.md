@@ -24,7 +24,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 ## 📜Content
 
-- [LLM Role-Playing/Persona Papers and Resources](#llm-role-playing-persona-papers-and-resources)
+- [LLM Role-Playing/Persona Papers and Resources](#llm-role-playingpersona-papers-and-resources)
   - [🔔 News](#-news)
   - [📜Content](#content)
     - [🧙 Role-Playing](#-role-playing)
@@ -78,8 +78,8 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan, Snigdha Chaturvedi.*, [[abs](https://aclanthology.org/2021.findings-emnlp.150/)], EMNLP findings 2021
 
 10. **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
-
-   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
+    
+    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 #### #️⃣ Celebrity/Stereotype
 
 1. **Expertprompting: Instructing large language models to be distinguished experts**
@@ -181,20 +181,20 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Marilù Miotto, Nicola Rossberg, Bennett Kleinberg.*, [[abs](https://arxiv.org/abs/2209.14338)], 2022.9
 
 9. **Editing Personality for LLMs**
-
+    
    *Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.*, [[abs](https://arxiv.org/abs/2310.02168)], 2023.10
 
 10. **PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences.**
-
-   *Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara.*, [[abs](https://arxiv.org/abs/2305.02547)], 2023.5
+    
+    *Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara.*, [[abs](https://arxiv.org/abs/2305.02547)], 2023.5
 
 11. **MBTI Personality Prediction for Fictional Characters Using Movie Scripts**
+    
+    *Yisi Sang, Xiangyang Mou, Mo Yu, Dakuo Wang, Jing Li, Jeffrey Stanton.*, [[abs](https://arxiv.org/abs/2210.10994)], EMNLP 2022
 
-   *Yisi Sang, Xiangyang Mou, Mo Yu, Dakuo Wang, Jing Li, Jeffrey Stanton.*, [[abs](https://arxiv.org/abs/2210.10994)], EMNLP 2022
-
-11. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
-
-   *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.*, [[abs](https://arxiv.org/abs/2307.05300)], 2023.7
+12. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+    
+    *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.*, [[abs](https://arxiv.org/abs/2307.05300)], 2023.7
 
 
 ### 🧠 Other Psychological Topics
