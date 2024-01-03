@@ -80,6 +80,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 10. **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
 
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
+
+11. **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
+   *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], 2024.1
+
 #### #️⃣ Celebrity/Stereotype
 
 1. **Expertprompting: Instructing large language models to be distinguished experts**
@@ -140,6 +144,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 3. **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars.**
    *Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby Hemphill, Yongfeng Zhang.* [[abs](https://arxiv.org/abs/2311.17227)], 2023.11.
+
+4. **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models.**
+   *Tian Liang, Zhiwei He, Jen-tse Huang, Wenxuan Wang, Wenxiang Jiao, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi, Xing Wang.* [[abs](https://arxiv.org/abs/2310.20499)], 2023.10.
 
 
 ### 🎭 Personality Traits
