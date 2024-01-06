@@ -227,6 +227,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz.*, 2023.4. Tags: anxiety.
 
+7. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.**
+
+   *Jintian Zhang, Xin Xu, Shumin Deng.*, 2023.10. Tags: social psychology.
+
 
 
 ### 🌐 Others
