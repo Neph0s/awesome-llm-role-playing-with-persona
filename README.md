@@ -132,6 +132,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 9. **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**
    *Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi* [[abs](https://arxiv.org/abs/2312.00763)], 2023.12.
 
+10. **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
+   *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans.* [[abs](https://arxiv.org/abs/2401.07363)], 2024.1.
+
 ### 👥 Multi Agents
 
 1. **Generative Agents: Interactive Simulacra of Human Behavior**
@@ -149,8 +152,11 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 5. **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars.**
    *Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby Hemphill, Yongfeng Zhang.* [[abs](https://arxiv.org/abs/2311.17227)], 2023.11.
 
-4. **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models.**
+6. **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models.**
    *Tian Liang, Zhiwei He, Jen-tse Huang, Wenxuan Wang, Wenxiang Jiao, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi, Xing Wang.* [[abs](https://arxiv.org/abs/2310.20499)], 2023.10.
+
+7. **AntEval: Quantitatively Evaluating Informativeness and Expressiveness of Agent Social Interactions.**
+   *Yuanzhi Liang, Linchao Zhu, Yi Yang.* [[abs](https://arxiv.org/abs/2401.06509)], 2024.1.
 
 
 ### 🎭 Personality Traits
@@ -201,6 +207,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 12. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
     
     *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.*, [[abs](https://arxiv.org/abs/2307.05300)], 2023.7
+   
+13. **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**
+
+   *Lucio La Cava, Davide Costa, Andrea Tagarelli.*, [[abs](https://arxiv.org/abs/2401.07115)], 2024.1
 
 
 ### 🧠 Other Psychological Topics
