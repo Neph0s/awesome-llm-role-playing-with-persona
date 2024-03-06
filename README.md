@@ -95,7 +95,6 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 15. **Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2402.10618)], 2024.02
 
-16. 
 
 #### #️⃣ Demographics/Stereotype
 
