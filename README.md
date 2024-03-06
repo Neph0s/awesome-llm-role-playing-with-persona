@@ -47,7 +47,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
 
-2. **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previous Name: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
+2. **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
 
    *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
 
@@ -207,7 +207,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 4. **Evaluating and Inducing Personality in Pre-trained Language Models.**
    *Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu.* [[abs](https://arxiv.org/abs/2206.07550)], 2022.6
 
-5. **Revisiting the Reliability of Psychological Scales on Large Language Models (Previous Name: ChatGPT an ENFJ, Bard an ISTJ:Empirical Study on Personalities of Large Language Models.)**
+5. **Revisiting the Reliability of Psychological Scales on Large Language Models (Previously: ChatGPT an ENFJ, Bard an ISTJ:Empirical Study on Personalities of Large Language Models.)**
    *Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2305.19926)], 2023.5
 
 6. **Do llms possess a personality? making the mbti test an amazing evaluation for large language models.**
