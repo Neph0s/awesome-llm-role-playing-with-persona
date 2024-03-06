@@ -1,7 +1,7 @@
 # LLM Role-Playing/Persona Papers and Resources
 
-[![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) 
-[![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)
 [![img](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
 
@@ -43,41 +43,41 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 #### 🧙 Role-Playing Agents / Fictional Characters
 
-1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model**
+1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
 
    *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
 
-2. **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**
+2. **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.**
 
-   *Xintao Wang, Xintao Wang, Yaying Fei, Ziang Leng, Cheng Li.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
+   *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
 
-3. **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
+1. **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
    *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], 2023.10
 
-4. **Character-LLM: A Trainable Agent for Role-Playing.**
+2. **Character-LLM: A Trainable Agent for Role-Playing.**
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
 
-5. **Thespian: Multi-Character Text Role-Playing Game Agents.**
+3. **Thespian: Multi-Character Text Role-Playing Game Agents.**
 
    *Christopher Cui, Xiangyu Peng, Mark Riedl.*, [[abs](https://arxiv.org/abs/2308.01872)], 2023.8
 
-6. **NarrativePlay: Interactive Narrative Understanding.**
+4. **NarrativePlay: Interactive Narrative Understanding.**
    *Runcong Zhao, Wenjia Zhang, Jiazheng Li, Lixing Zhu, Yanran Li, Yulan He, Lin Gui.*, [[abs](https://arxiv.org/abs/2310.01459)], 2023.10
 
-7. **Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances.**
+5. **Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances.**
 
    *Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang.*, [[abs](https://arxiv.org/abs/2204.10825)], NAACL 2022
 
-8. **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters.**
+6. **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters.**
 
    *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li.*, [[abs](https://arxiv.org/abs/2211.06869)], 2022.11
 
-9. **“Let Your Characters Tell Their Story”: A Dataset for Character-Centric Narrative Understanding**
+7. **“Let Your Characters Tell Their Story”: A Dataset for Character-Centric Narrative Understanding**
    *Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan, Snigdha Chaturvedi.*, [[abs](https://aclanthology.org/2021.findings-emnlp.150/)], EMNLP findings 2021
 
-10. **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
+8.  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
 11. **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
@@ -89,7 +89,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Benfeng Xu , An Yang , Junyang Lin , Quan Wang , Chang Zhou, Yongdong Zhang and Zhendong Mao.* [[abs](https://arxiv.org/abs/2305.14688)], 2023.5
 
-2. **Toxicity in CHATGPT: Analyzing Persona-assigned Language Models**
+2. **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models**
 
    *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2304.05335)], 2023.4
 
