@@ -60,7 +60,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
 
 -  **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**
-   *Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
+   *Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap.* [[abs](https://arxiv.org/abs/2310.11667)], 2023.10
+
+- **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
+   *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715], 2024.03
 
 -  **Thespian: Multi-Character Text Role-Playing Game Agents.**
 
@@ -222,6 +225,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula.* [[abs](https://arxiv.org/abs/2204.12000)], 2022.4
 
+-  **PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences.**
+    
+    *Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara.*, [[abs](https://arxiv.org/abs/2305.02547)], 2023.5
+
 -  **Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective.**
 
    *Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing.* [[abs](https://arxiv.org/abs/2212.10529)], 2022.12
@@ -248,9 +255,6 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
     
    *Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.*, [[abs](https://arxiv.org/abs/2310.02168)], 2023.10
 
--  **PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences.**
-    
-    *Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara.*, [[abs](https://arxiv.org/abs/2305.02547)], 2023.5
 
 -  **MBTI Personality Prediction for Fictional Characters Using Movie Scripts**
     
