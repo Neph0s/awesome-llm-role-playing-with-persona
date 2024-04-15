@@ -60,9 +60,11 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
 
 -  **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**
+
    *Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap.* [[abs](https://arxiv.org/abs/2310.11667)], 2023.10
 
 - **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
+
    *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715], 2024.03
 
 -  **Thespian: Multi-Character Text Role-Playing Game Agents.**
