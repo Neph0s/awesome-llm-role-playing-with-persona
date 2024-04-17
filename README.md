@@ -22,6 +22,8 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 - **2023-10-30 We create this repository to maintain a paper list on *LLMs Role-Playing with Assigned Personas* .**
 
+- **2024-04-17 We are looking for collaborators interested in research on this topic. Contact us via email: xtwang21@m.fudan.edu.cn**
+
 ## 📜Content
 
 - [LLM Role-Playing/Persona Papers and Resources](#llm-role-playingpersona-papers-and-resources)
@@ -109,7 +111,8 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 -  **PIPPA: A Partially Synthetic Conversational Dataset**
    *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
 
-
+- **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**
+   *Chenxu Wang, Bin Dai, Huaping Liu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2404.05337)], 2024.04
 
 
 
@@ -210,7 +213,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 -  **How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**
    *Jen-tse Huang, Eric John Li, Man Ho Lam, Tian Liang, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2403.11807)], 2024.03
 
--  **Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**
+-  **AgentGroupChat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**
    *Zhouhong Gu, Xiaoxuan Zhu, Haoran Guo, Lin Zhang, Yin Cai, Hao Shen, Jiangjie Chen, Zheyu Ye, Yifei Dai, Yan Gao, Yao Hu, Hongwei Feng, Yanghua Xiao* [[abs](https://arxiv.org/abs/2403.13433)], 2024.03
 
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
