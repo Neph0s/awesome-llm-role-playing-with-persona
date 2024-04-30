@@ -20,7 +20,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 ## 🔔 News
 
-- **2024-04-30 We are super excited to announce our survey paper: *From Persona to Personalization:A Survey on Role-Playing Language Agents***
+- **2024-04-30 We are super excited to announce our survey paper: *From Persona to Personalization:A Survey on Role-Playing Language Agents*[[arxiv](https://arxiv.org/abs/2308.09597)]**
 
 - **2024-04-17 We are looking for collaborators interested in research on this topic. Contact us via email: xtwang21@m.fudan.edu.cn**
 
