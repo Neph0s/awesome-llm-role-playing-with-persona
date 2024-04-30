@@ -20,15 +20,18 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 ## 🔔 News
 
-- **2023-10-30 We create this repository to maintain a paper list on *LLMs Role-Playing with Assigned Personas* .**
+- **2024-04-30 We are super excited to announce our survey paper: *From Persona to Personalization:A Survey on Role-Playing Language Agents***
 
 - **2024-04-17 We are looking for collaborators interested in research on this topic. Contact us via email: xtwang21@m.fudan.edu.cn**
+
+- **2023-10-30 We create this repository to maintain a paper list on *LLMs Role-Playing with Assigned Personas* .**
 
 ## 📜Content
 
 - [LLM Role-Playing/Persona Papers and Resources](#llm-role-playingpersona-papers-and-resources)
   - [🔔 News](#-news)
   - [📜Content](#content)
+    - [📚 Survey](#-survey)
     - [🧙 Role-Playing](#-role-playing)
       - [🧙 Role-Playing Agents / Fictional Characters](#-role-playing-agents--fictional-characters)
       - [👨‍👩‍👧‍👦 Demographics/Stereotype](#️-celebritystereotype)
@@ -40,6 +43,12 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
   - [💡  Contribution](#--contribution)
     - [Contributing to this repo](#contributing-to-this-repo)
     - [Contributors](#contributors)
+
+### 📚 Survey Paper
+
+- **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
+   
+   *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], 2024.4
 
 ### 🧙 Role-Playing
 
