@@ -60,15 +60,15 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
 
-   *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], 2023.10
+   *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
 
 -  **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
-   *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], 2023.10
+   *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], ACL 2024
 
 -  **Character-LLM: A Trainable Agent for Role-Playing.**
 
-   *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], 2023.10
+   *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
 -  **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**
 
@@ -77,6 +77,17 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
 
    *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715], 2024.03
+
+- **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**
+
+   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
+
+
+- **Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works**
+   *Xinfeng Yuan, Siyu Yuan, Yuhan Cui, Tianhe Lin, Xintao Wang, Rui Xu, Jiangjie Chen, Deqing Yang.* [[abs](https://arxiv.org/abs/2404.12726)], 2024.04
+
+- **From Role-Play to Drama-Interaction: An LLM Solution**
+   *Weiqi Wu, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2405.14231)], Findings of ACL 2024
 
 -  **Thespian: Multi-Character Text Role-Playing Game Agents.**
 
