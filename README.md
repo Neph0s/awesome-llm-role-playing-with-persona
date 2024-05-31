@@ -89,6 +89,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - **From Role-Play to Drama-Interaction: An LLM Solution**
    *Weiqi Wu, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2405.14231)], Findings of ACL 2024
 
+- **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**
+   *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)], Findings of ACL 2024
+
 -  **Thespian: Multi-Character Text Role-Playing Game Agents.**
 
    *Christopher Cui, Xiangyu Peng, Mark Riedl.*, [[abs](https://arxiv.org/abs/2308.01872)], 2023.8
