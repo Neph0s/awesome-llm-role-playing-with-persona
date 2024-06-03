@@ -137,6 +137,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**
    *Chenxu Wang, Bin Dai, Huaping Liu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2404.05337)], 2024.04
 
+- **Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character’s Persona**
+   *Jeiyoon Park, Chanjun Park, Heuiseok Lim.* [[abs](https://arxiv.org/abs/2405.19778)], 2024.05
+
 
 
 
