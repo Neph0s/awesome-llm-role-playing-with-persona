@@ -140,7 +140,14 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - **Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character’s Persona**
    *Jeiyoon Park, Chanjun Park, Heuiseok Lim.* [[abs](https://arxiv.org/abs/2405.19778)], 2024.05
 
+- **AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat**
+   *Zhenchi Lai, Janet Yi-Ching Huang, Rung-Huei Liang.* [[abs](https://arxiv.org/abs/2406.06192)], 2024.06
 
+- **Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**
+   *Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu.* [[abs](https://arxiv.org/abs/2405.20773)], 2024.06
+
+- **From Role-Play to Drama-Interaction: An LLM Solution**
+   *Weiqi Wu, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2405.14231)], 2024.05
 
 
 #### #️⃣ Demographics/Stereotype
