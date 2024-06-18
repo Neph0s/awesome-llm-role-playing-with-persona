@@ -54,6 +54,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 #### 🧙 Role-Playing Agents / Fictional Characters
 
+- **MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education**
+
+  *Murong Yue, Wijdane Mifdal, Yixuan Zhang, Jennifer Suh, Ziyu Yao.* [[abs](https://murongyue.github.io/MathVC.github.io/)], 2024.4
+
 -  **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
 
    *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
@@ -251,6 +255,9 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
    *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
+
+- **MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education**
+  *Murong Yue, Wijdane Mifdal, Yixuan Zhang, Jennifer Suh, Ziyu Yao.* [[abs](https://murongyue.github.io/MathVC.github.io/)], 2024.4
 
 
 ### 🎭 Personality Traits
