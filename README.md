@@ -1,16 +1,16 @@
-# LLM Role-Playing/Persona Papers and Resources
+# Papers and Resources about Role-Playing Language Models
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)
 
-
-Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas.
+Awesome-llm-role-playing-agents: a curated list of resources for large language models, personas, and role-playing agents.
 
 ---
 
-*Here are some other paper lists you might be interested in:*
+This repo primarily focuses on **character role-playing**, such as fictional characters, celebrities, and historical figures. While role-playing language agents are related to many research topics, such as multi-agent systems and long-context models, we cannot guarantee the inclusion of papers in these areas.
 
+*Here are some other paper lists you might be interested in:*
 
 💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg)**[Persona Paper](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
 
@@ -19,6 +19,8 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
 ## 🔔 News
+
+- **2024-06-28 We reorganized this repo, putting more focus on role-playing agents.**
 
 - **2024-04-30 We are super excited to announce our survey paper: "*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)]**
 
@@ -31,28 +33,29 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - [LLM Role-Playing/Persona Papers and Resources](#llm-role-playingpersona-papers-and-resources)
   - [🔔 News](#-news)
   - [📜Content](#content)
-    - [📚 Survey](#-survey)
     - [🧙 Role-Playing](#-role-playing)
-      - [🧙 Role-Playing Agents / Fictional Characters](#-role-playing-agents--fictional-characters)
-      - [👨‍👩‍👧‍👦 Demographics/Stereotype](#️-celebritystereotype)
-      - [🤖 Personalized AI](#-personalized-ai)
+      - [🧙 Characters](#-characters)
+      - [👨‍👩‍👧‍👦 Demographics](#️-demographics)
+      - [🤖 Personalization](#-personalization)
     - [👥 Multi Agents](#-multi-agents)
-    - [🎭 Personality Traits](#-personality-traits)
-    - [🧠 Other Psychological Topics](#-other-psychological-topics)
-    - [🌐 Others](#-others)
+    - [🧠 Anthropomorphic Cognition](#-anthropomorphic-cognition)
+      - [🎭 Personality Traits](#-personality-traits)
+      - [👥 Social Intelligence & Theory-of-Mind](#-social-intelligence--theory-of-mind) 
+      - [🧠 Others](#-others-1)
+    - [🌐 Others](#-others-2)
   - [💡  Contribution](#--contribution)
     - [Contributing to this repo](#contributing-to-this-repo)
     - [Contributors](#contributors)
 
-### 📚 Survey Paper
 
-- **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
-   
-   *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], 2024.4
 
 ### 🧙 Role-Playing
 
-#### 🧙 Role-Playing Agents / Fictional Characters
+#### 🧙 Characters
+
+-  **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
+   
+   *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], 2024.4
 
 -  **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
 
@@ -70,21 +73,26 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
--  **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**
+-   **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
+   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
-   *Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap.* [[abs](https://arxiv.org/abs/2310.11667)], 2023.10
-
-- **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
-
-   *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715], 2024.03
+-  **PIPPA: A Partially Synthetic Conversational Dataset**
+   *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
 
 - **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**
 
    *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
 
 
+-  **Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**
+   *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou.*, [[abs](https://arxiv.org/abs/2401.12474)], 2024.1
+
+-  **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters.**
+   *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li.*, [[abs](https://arxiv.org/abs/2211.06869)], 2022.11
+
 - **Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works**
    *Xinfeng Yuan, Siyu Yuan, Yuhan Cui, Tianhe Lin, Xintao Wang, Rui Xu, Jiangjie Chen, Deqing Yang.* [[abs](https://arxiv.org/abs/2404.12726)], 2024.04
+
 
 - **From Role-Play to Drama-Interaction: An LLM Solution**
    *Weiqi Wu, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2405.14231)], Findings of ACL 2024
@@ -92,32 +100,16 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 - **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**
    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)], Findings of ACL 2024
 
--  **Thespian: Multi-Character Text Role-Playing Game Agents.**
-
-   *Christopher Cui, Xiangyu Peng, Mark Riedl.*, [[abs](https://arxiv.org/abs/2308.01872)], 2023.8
-
--  **NarrativePlay: Interactive Narrative Understanding.**
-   *Runcong Zhao, Wenjia Zhang, Jiazheng Li, Lixing Zhu, Yanran Li, Yulan He, Lin Gui.*, [[abs](https://arxiv.org/abs/2310.01459)], 2023.10
-
--  **Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances.**
-
    *Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang.*, [[abs](https://arxiv.org/abs/2204.10825)], NAACL 2022
 
--  **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters.**
-
-   *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li.*, [[abs](https://arxiv.org/abs/2211.06869)], 2022.11
 
 -  **“Let Your Characters Tell Their Story”: A Dataset for Character-Centric Narrative Understanding**
    *Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan, Snigdha Chaturvedi.*, [[abs](https://aclanthology.org/2021.findings-emnlp.150/)], EMNLP findings 2021
 
--   **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
-   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
 -  **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
    *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], 2024.1
 
--  **Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**
-   *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou.*, [[abs](https://arxiv.org/abs/2401.12474)], 2024.1
 
 -  **Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**
    *Xiaoyan Yu, Tongxu Luo, Yifan Wei, Fangyu Lei, Yiming Huang, Hao Peng, Liehuang Zhu.*, [[abs](https://arxiv.org/abs/2402.13717)], 2024.2
@@ -131,26 +123,12 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 -  **RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
--  **PIPPA: A Partially Synthetic Conversational Dataset**
-   *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
-
-- **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**
-   *Chenxu Wang, Bin Dai, Huaping Liu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2404.05337)], 2024.04
-
-- **Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character’s Persona**
-   *Jeiyoon Park, Chanjun Park, Heuiseok Lim.* [[abs](https://arxiv.org/abs/2405.19778)], 2024.05
-
-- **AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat**
-   *Zhenchi Lai, Janet Yi-Ching Huang, Rung-Huei Liang.* [[abs](https://arxiv.org/abs/2406.06192)], 2024.06
-
-- **Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**
-   *Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu.* [[abs](https://arxiv.org/abs/2405.20773)], 2024.06
-
-- **From Role-Play to Drama-Interaction: An LLM Solution**
-   *Weiqi Wu, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2405.14231)], 2024.05
 
 
-#### #️⃣ Demographics/Stereotype
+
+
+
+#### 👨‍👩‍👧‍👦 Demographics
 
 -  **Expertprompting: Instructing large language models to be distinguished experts**
 
@@ -165,6 +143,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 -  **Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**
    *Shashank Gupta, Vaishnavi Shrivastava, Ameet Deshpande, Ashwin Kalyan, Peter Clark, Ashish Sabharwal, Tushar Khot* [[abs](https://arxiv.org/abs/2311.04892)], 2023.11
+
 -  **Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts.**
    *Mingqian Zheng, Jiaxin Pei, David Jurgens* [[abs](https://arxiv.org/abs/2311.10054)], 2023.11
 
@@ -177,11 +156,10 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 -  **CultureLLM: Incorporating Cultural Differences into Large Language Models**
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.2
 
-#### 🤖 Personalized AI
+#### 🤖 Personalization
 
 -  **MPCHAT: Towards Multimodal Persona-Grounded Conversation**
-
-   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim.* [[abs](https://arxiv.org/abs/2305.17388)], 2023.5. Tags: multimodal persona.
+   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim.* [[abs](https://arxiv.org/abs/2305.17388)], ACL 2023. Tags: multimodal persona.
 
 -  **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**
 
@@ -194,7 +172,7 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston.* [[abs](https://arxiv.org/abs/1801.07243)], ACL 2018.
 
 -  **On the steerability of large language models toward data-driven personas**
-   *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://arxiv.org/abs/2311.04978)], 2023.11.
+   *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://aclanthology.org/2024.naacl-long.405/)], NAACL 2024.
 
 -  **LaMP: When Large Language Models Meet Personalization**
    *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani* [[abs](https://arxiv.org/abs/2304.11406)], 2023.04.
@@ -203,13 +181,16 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
    *Jessica Maghakian, Paul Mineiro, Kishan Panaganti, Mark Rucker, Akanksha Saran, Cheng Tan* [[abs](https://arxiv.org/abs/2211.15823)], 2022.11.
 
 -  **When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**
-   *Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen* [[abs](https://arxiv.org/abs/2307.16376)], 2023.07.
+   *Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen* [[abs](https://arxiv.org/abs/2307.16376)], 2023.07, Survey.
 
 -  **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**
    *Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi* [[abs](https://arxiv.org/abs/2312.00763)], 2023.12.
 
 -  **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
    *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans.* [[abs](https://arxiv.org/abs/2401.07363)], 2024.1.
+
+- **How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability with ECHO**
+   *Man Tik Ng, Hui Tung Tse, Jen-tse Huang, Jingjing Li, Wenxuan Wang, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2404.13957)], 2024.4
 
 ### 👥 Multi Agents
 
@@ -252,8 +233,12 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
    *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
 
+- **EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**
+  *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Dongsheng Li, Deqing Yang*
 
-### 🎭 Personality Traits
+### 🧠 Anthropomorphic Cognition
+
+#### 🎭 Personality Traits
 
 -  **Personality Traits in Large Language Models**
 
@@ -308,11 +293,16 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
 
 
-### 🧠 Other Psychological Topics
+#### 👥 Social Intelligence & Theory-of-Mind
 
 -  **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
 
    *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
+
+-  **OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models.**
+   *Hainiu Xu, Runcong Zhao, Lixing Zhu, Jinhua Du, Yulan He.* [[abs](https://arxiv.org/abs/2402.06044)], 2024.2. Tags: ToM.
+
+#### 🧠 Others {#others-1}
 
 -  **Role-Play with Large Language Models**
    *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
@@ -336,13 +326,23 @@ Awesome-llm-role-playing-with-persona: a curated list of resources for large lan
 
    *Jintian Zhang, Xin Xu, Shumin Deng.*, 2023.10. Tags: social psychology.
 
--  **OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models.**
-   *Hainiu Xu, Runcong Zhao, Lixing Zhu, Jinhua Du, Yulan He.* [[abs](https://arxiv.org/abs/2402.06044)], 2024.2. Tags: ToM.
 
 
+### 🌐 Others {#others-2}
 
-### 🌐 Others
 
+- **One Thousand and One Pairs: A “novel” challenge for long-context language models**
+   *Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2406.16264)], 2024.6
+
+- **NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens**
+   *Cunxiang Wang, Ruoxi Ning, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Xiangkun Hu, Zheng Zhang, Qian Wang, Yue Zhang.* [[abs](https://arxiv.org/abs/2403.12766)], 2024.3
+
+
+- **Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**
+   *Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu.* [[abs](https://arxiv.org/abs/2405.20773)], 2024.06
+
+- **AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat**
+   *Zhenchi Lai, Janet Yi-Ching Huang, Rung-Huei Liang.* [[abs](https://arxiv.org/abs/2406.06192)], 2024.06
 
 ---
 
