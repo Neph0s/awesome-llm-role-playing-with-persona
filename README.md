@@ -128,7 +128,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
-#### 👨‍👩‍👧‍👦 Demographics
+#### 👨‍👩‍👧‍👦 Demographics {#-demographics}
 
 -  **Expertprompting: Instructing large language models to be distinguished experts**
 
@@ -302,7 +302,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models.**
    *Hainiu Xu, Runcong Zhao, Lixing Zhu, Jinhua Du, Yulan He.* [[abs](https://arxiv.org/abs/2402.06044)], 2024.2. Tags: ToM.
 
-#### 🧠 Others {#others-1}
+#### 🧠 Others {#-others-1}
 
 -  **Role-Play with Large Language Models**
    *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
@@ -328,7 +328,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
-### 🌐 Others {#others-2}
+### 🌐 Others {#-others-2}
 
 
 - **One Thousand and One Pairs: A “novel” challenge for long-context language models**
