@@ -123,7 +123,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
-
+- **Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**
+   *Yiting Ran, Xintao Wang, Rui Xu, Xinfeng Yuan, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.18921)], 2024.06
 
 
 
@@ -156,10 +157,21 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CultureLLM: Incorporating Cultural Differences into Large Language Models**
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.2
 
+- **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
+   *Yun-Shiuan Chuang, Zach Studdiford, Krirk Nirunwiroj, Agam Goyal, Vincent V. Frigo, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy T. Rogers.* [[abs](https://arxiv.org/abs/2406.17232)], 2024.6
+
 #### 🤖 Personalization
 
--  **MPCHAT: Towards Multimodal Persona-Grounded Conversation**
-   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim.* [[abs](https://arxiv.org/abs/2305.17388)], ACL 2023. Tags: multimodal persona.
+
+
+-  **LaMP: When Large Language Models Meet Personalization**
+   *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani* [[abs](https://arxiv.org/abs/2304.11406)], 2023.04.
+
+- **How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability with ECHO**
+   *Man Tik Ng, Hui Tung Tse, Jen-tse Huang, Jingjing Li, Wenxuan Wang, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2404.13957)], 2024.4
+
+-  **On the steerability of large language models toward data-driven personas**
+   *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://aclanthology.org/2024.naacl-long.405/)], NAACL 2024.
 
 -  **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**
 
@@ -171,11 +183,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **Personalizing Dialogue Agents: I have a dog, do you have pets too?** 
    *Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston.* [[abs](https://arxiv.org/abs/1801.07243)], ACL 2018.
 
--  **On the steerability of large language models toward data-driven personas**
-   *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://aclanthology.org/2024.naacl-long.405/)], NAACL 2024.
+-  **MPCHAT: Towards Multimodal Persona-Grounded Conversation**
+   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim.* [[abs](https://arxiv.org/abs/2305.17388)], ACL 2023. Tags: multimodal persona.
 
--  **LaMP: When Large Language Models Meet Personalization**
-   *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani* [[abs](https://arxiv.org/abs/2304.11406)], 2023.04.
 
 -  **Personalized Reward Learning with Interaction-Grounded Learning (IGL)**
    *Jessica Maghakian, Paul Mineiro, Kishan Panaganti, Mark Rucker, Akanksha Saran, Cheng Tan* [[abs](https://arxiv.org/abs/2211.15823)], 2022.11.
@@ -189,8 +199,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
    *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans.* [[abs](https://arxiv.org/abs/2401.07363)], 2024.1.
 
-- **How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability with ECHO**
-   *Man Tik Ng, Hui Tung Tse, Jen-tse Huang, Jingjing Li, Wenxuan Wang, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2404.13957)], 2024.4
 
 ### 👥 Multi Agents
 
@@ -231,10 +239,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Zhouhong Gu, Xiaoxuan Zhu, Haoran Guo, Lin Zhang, Yin Cai, Hao Shen, Jiangjie Chen, Zheyu Ye, Yifei Dai, Yan Gao, Yao Hu, Hongwei Feng, Yanghua Xiao* [[abs](https://arxiv.org/abs/2403.13433)], 2024.03
 
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
-   *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
+   *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap.* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
 
 - **EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**
-  *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Dongsheng Li, Deqing Yang*
+  *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Dongsheng Li, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.14228)], 2024.06
+
+- **HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**
+   *Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng* [[abs](https://arxiv.org/abs/2406.11683)], 2024.06
 
 ### 🧠 Anthropomorphic Cognition
 
@@ -299,8 +310,22 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
 
+-  **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**
+
+   *Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap.* [[abs](https://arxiv.org/abs/2310.11667)], 2023.10
+
+- **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
+
+   *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715)], 2024.03
+
+- **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**
+   *Chenxu Wang, Bin Dai, Huaping Liu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2404.05337)], 2024.04
+
 -  **OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models.**
-   *Hainiu Xu, Runcong Zhao, Lixing Zhu, Jinhua Du, Yulan He.* [[abs](https://arxiv.org/abs/2402.06044)], 2024.2. Tags: ToM.
+   *Hainiu Xu, Runcong Zhao, Lixing Zhu, Jinhua Du, Yulan He.* [[abs](https://arxiv.org/abs/2402.06044)], 2024.2.
+
+-  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
+   *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
 
 #### 🧠 Others {#-others-1}
 
@@ -343,6 +368,12 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat**
    *Zhenchi Lai, Janet Yi-Ching Huang, Rung-Huei Liang.* [[abs](https://arxiv.org/abs/2406.06192)], 2024.06
+
+- **THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation**
+  *Seo Hyun Kim, Kai Tzu-iunn Ong, Taeyoon Kwon, Namyoung Kim, Keummin Ka, SeongHyeon Bae, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo.* [[abs](https://arxiv.org/abs/2406.10996)], 2024.06
+
+- **ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**
+   *Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, Kexin Huang, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang.* [[abs](https://arxiv.org/abs/2406.14952)], 2024.06
 
 ---
 
