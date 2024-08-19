@@ -20,6 +20,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ## 🔔 News
 
+- **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
+
 - **2024-06-28 We reorganized this repo, putting more focus on role-playing agents.**
 
 - **2024-04-30 We are super excited to announce our survey paper: "*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)]**
@@ -43,6 +45,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
       - [👥 Social Intelligence & Theory-of-Mind](#-social-intelligence--theory-of-mind) 
       - [🧠 Others](#-others-1)
     - [🌐 Others](#-others-2)
+      - [📂 Resources](#-resources)
+      - [📰 Blogs](#-blogs)
+      - [📄 Papers](#-papers)
   - [💡  Contribution](#--contribution)
     - [Contributing to this repo](#contributing-to-this-repo)
     - [Contributors](#contributors)
@@ -53,13 +58,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🧙 Characters
 
+*Established Characters*
+
 -  **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], 2024.04
-
--  **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
-
-   *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
 
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
 
@@ -67,13 +70,17 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
-   *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], ACL 2024
+   *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], Findings of ACL 2024
+
+-  **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
+
+   *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)], 2023.8
 
 -  **Character-LLM: A Trainable Agent for Role-Playing.**
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
--   **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
+-  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
 -  **PIPPA: A Partially Synthetic Conversational Dataset**
@@ -106,7 +113,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 -  **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
-   *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], 2024.01
+   *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], ACL 2024
 
 
 -  **Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**
@@ -118,12 +125,19 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2402.10618)], 2024.02
 
--  **RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**
+-  **SocialBench: Sociality Evaluation of Role-Playing Conversational Agents**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
 - **Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**
    *Yiting Ran, Xintao Wang, Rui Xu, Xinfeng Yuan, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.18921)], 2024.06
 
+- **MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**
+   *Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu.* [[abs](https://arxiv.org/abs/2408.04203)], 2024.08
+
+*Original Characters*
+
+- **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
+   *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* [[abs](https://arxiv.org/abs/2406.20094)], 2024.06
 
 
 
@@ -170,6 +184,12 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **On the steerability of large language models toward data-driven personas**
    *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://aclanthology.org/2024.naacl-long.405/)], NAACL 2024.
+
+- **Show, Don’t Tell: Aligning Language Models with Demonstrated Feedback**
+   *Omar Shaikh, Michelle Lam, Joey Hejna, Yijia Shao, Michael Bernstein, Diyi Yang* [[abs](https://arxiv.org/pdf/2406.00888)], 2024.06
+
+- **PersLLM: A Personified Training Approach for Large Language Models**
+   *Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhenghao Liu, Zhiyuan Liu, Maosong Sun* [[abs](https://arxiv.org/abs/2407.12393)], 2024.07
 
 -  **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**
 
@@ -250,6 +270,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Dialogue Action Tokens: Steering Language Models in Goal-Directed Dialogue with a Multi-Turn Planner**
    *Kenneth Li, Yiming Wang, Fernanda Viégas, Martin Wattenberg.* [[abs](https://arxiv.org/abs/2406.11978)], 2024.06
+
+- **LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**
+   *Li-Chun Lu, Shou-Jen Chen, Tsung-Min Pai, Chan-Hung Yu, Hung-yi Lee, Shao-Hua Sun.* [[abs](https://arxiv.org/abs/2405.06373)], COLM 2024
 
 ### 🧠 Anthropomorphic Cognition
 
@@ -359,6 +382,25 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ### 🌐 Others {#-others-2}
 
+#### 📂 Resources
+
+- **RPBench Leaderboard**
+   *Boson AI.* [[leaderboard](https://boson.ai/rpbench/)]
+
+- **Higgs-Llama-3-70B**
+   *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
+
+#### 📰 Blogs
+
+- **[[Character.ai 赛道的真相 (The Truth About the Character.ai Track)](https://mp.weixin.qq.com/s/H2KNDGRNHktHiQc3sayFsA)]**, 2024.08
+
+- **[[李沐：创业一年，人间三年！(Mu Li (Boson AI): One Year of Entrepreneurship, Three Years in the Human World!)](https://mp.weixin.qq.com/s/2lbCMo64-nU5yRz1cLQxYA)]**, 2024.08
+
+- **[[盘点ACL 2024 角色扮演方向都发了啥 (A Review of Publications in Role-Playing Direction at ACL 2024)](https://mp.weixin.qq.com/s/E5qp5YPYPVaLM07OumDTRw)]**, 2024.07
+
+- **[[角色扮演大模型的碎碎念 (Ramblings on Large Language Models for Role-Playing)](https://mp.weixin.qq.com/s/yoM-srJYGGfyd1VXirg_Hg)]**, 2024.03
+
+#### 📄 Papers
 
 - **One Thousand and One Pairs: A “novel” challenge for long-context language models**
    *Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2406.16264)], 2024.06
