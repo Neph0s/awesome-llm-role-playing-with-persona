@@ -274,6 +274,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**
    *Li-Chun Lu, Shou-Jen Chen, Tsung-Min Pai, Chan-Hung Yu, Hung-yi Lee, Shao-Hua Sun.* [[abs](https://arxiv.org/abs/2405.06373)], COLM 2024
 
+- **Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation**
+   *Razan Baltaji, Babak Hemmatian, Lav R. Varshney.* [[abs](https://arxiv.org/abs/2405.03862)], 2024.05
+
 ### 🧠 Anthropomorphic Cognition
 
 #### 🎭 Personality Traits
