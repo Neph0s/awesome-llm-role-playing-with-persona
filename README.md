@@ -141,7 +141,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
-#### 👨‍👩‍👧‍👦 Demographics {#-demographics}
+#### 👨‍👩‍👧‍👦 Demographics
 
 -  **Expertprompting: Instructing large language models to be distinguished experts**
 
@@ -357,7 +357,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
    *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
 
-#### 🧠 Others {#-others-1}
+#### 🧠 Others{#-others-1}
 
 -  **Role-Play with Large Language Models**
    *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
@@ -383,7 +383,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
-### 🌐 Others {#-others-2}
+### 🌐 Others{#-others-2}
 
 #### 📂 Resources
 
