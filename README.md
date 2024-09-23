@@ -134,12 +134,16 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**
    *Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu.* [[abs](https://arxiv.org/abs/2408.04203)], 2024.08
 
+- **Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**
+   *Wenyuan Zhang, Jiawei Sheng, Shuaiyi Nie, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.09
+
 *Original Characters*
 
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
    *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* [[abs](https://arxiv.org/abs/2406.20094)], 2024.06
 
-
+- **Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge**
+   *Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan Hyeon, Ho-Jin Choi.* [[abs](https://arxiv.org/abs/2407.03958)], EMNLP 2024
 
 #### 👨‍👩‍👧‍👦 Demographics
 
