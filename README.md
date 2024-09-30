@@ -32,19 +32,19 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ## 📜Content
 
-- [LLM Role-Playing/Persona Papers and Resources](#llm-role-playingpersona-papers-and-resources)
+- [Papers and Resources about Role-Playing Language Models](#papers-and-resources-about-role-playing-language-models)
   - [🔔 News](#-news)
   - [📜Content](#content)
     - [🧙 Role-Playing](#-role-playing)
       - [🧙 Characters](#-characters)
-      - [👨‍👩‍👧‍👦 Demographics](#️-demographics)
+      - [👨‍👩‍👧‍👦 Demographics](#-demographics)
       - [🤖 Personalization](#-personalization)
     - [👥 Multi Agents](#-multi-agents)
     - [🧠 Anthropomorphic Cognition](#-anthropomorphic-cognition)
       - [🎭 Personality Traits](#-personality-traits)
-      - [👥 Social Intelligence & Theory-of-Mind](#-social-intelligence--theory-of-mind) 
-      - [🧠 Others](#-others-1)
-    - [🌐 Others](#-others-2)
+      - [👥 Social Intelligence \& Theory-of-Mind](#-social-intelligence--theory-of-mind)
+      - [🧠 Others ](#-others-)
+    - [🌐 Others ](#-others--1)
       - [📂 Resources](#-resources)
       - [📰 Blogs](#-blogs)
       - [📄 Papers](#-papers)
@@ -133,6 +133,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**
    *Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu.* [[abs](https://arxiv.org/abs/2408.04203)], 2024.08
+
+- **BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**
+   *Yeyong Yu, Runsheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.08
 
 - **Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**
    *Wenyuan Zhang, Jiawei Sheng, Shuaiyi Nie, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.09
