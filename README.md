@@ -82,6 +82,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
+-  **Mitigating Hallucination in Fictional Character Role-Play**
+
+   *Nafis Sadeq, Zhouhang Xie, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley.*, [[abs](https://arxiv.org/abs/2406.17260)] [[dataset](https://github.com/NafisSadeq/rolefact)], Findings of EMNLP 2024
+
 -  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
