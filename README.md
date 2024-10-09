@@ -20,6 +20,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ## 🔔 News
 
+- **2024-10-09 🎉Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
+
 - **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
 
 - **2024-06-28 We reorganized this repo, putting more focus on role-playing agents.**
@@ -62,7 +64,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
    
-   *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], 2024.04
+   *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
 
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
 
@@ -129,7 +131,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
 - **Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**
-   *Yiting Ran, Xintao Wang, Rui Xu, Xinfeng Yuan, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.18921)], 2024.06
+   *Yiting Ran, Xintao Wang, Rui Xu, Xinfeng Yuan, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.18921)], Findings of EMNLP 2024
 
 - **MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**
    *Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu.* [[abs](https://arxiv.org/abs/2408.04203)], 2024.08
