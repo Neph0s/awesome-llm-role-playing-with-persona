@@ -182,6 +182,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
    *Yun-Shiuan Chuang, Zach Studdiford, Krirk Nirunwiroj, Agam Goyal, Vincent V. Frigo, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy T. Rogers.* [[abs](https://arxiv.org/abs/2406.17232)], 2024.06
 
+- **PRODIGy: a PROfile-based DIalogue Generation dataset**
+  *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini* [[abs](https://arxiv.org/abs/2311.05195)] [[dataset](https://github.com/LanD-FBK/prodigy-dataset)], NAACL Findings 2024
+
 #### 🤖 Personalization
 
 
