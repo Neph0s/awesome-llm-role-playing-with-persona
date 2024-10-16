@@ -143,6 +143,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**
    *Wenyuan Zhang, Jiawei Sheng, Shuaiyi Nie, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.09
 
+-  **BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**
+
+   *Yeyong Yu, Runsheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian.* [[abs](https://arxiv.org/abs/2408.10903)], [[dataset](https://huggingface.co/datasets/yuyouyu/BeyondDialogue)], 2024.08
+
 *Original Characters*
 
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
