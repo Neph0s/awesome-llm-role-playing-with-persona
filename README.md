@@ -139,6 +139,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**
    *Wenyuan Zhang, Jiawei Sheng, Shuaiyi Nie, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.09
 
+- **BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**
+   *Yeyong Yu, Runsheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian.* [[abs](https://arxiv.org/abs/2408.10903)], 2024.08
+
 *Original Characters*
 
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
@@ -175,8 +178,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CultureLLM: Incorporating Cultural Differences into Large Language Models**
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.02
 
-- **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
-   *Yun-Shiuan Chuang, Zach Studdiford, Krirk Nirunwiroj, Agam Goyal, Vincent V. Frigo, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy T. Rogers.* [[abs](https://arxiv.org/abs/2406.17232)], 2024.06
+
 
 #### 🤖 Personalization
 
@@ -222,6 +224,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
    *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans.* [[abs](https://arxiv.org/abs/2401.07363)], 2024.01.
+
+- **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
+   *Yun-Shiuan Chuang, Krirk Nirunwiroj, Zach Studdiford, Agam Goyal, Vincent V. Frigo, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy T. Rogers.* [[abs](https://arxiv.org/abs/2406.17232)], 2024.06
 
 
 ### 👥 Multi Agents
