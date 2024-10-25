@@ -154,6 +154,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge**
    *Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan Hyeon, Ho-Jin Choi.* [[abs](https://arxiv.org/abs/2407.03958)], EMNLP 2024
 
+- **PersonaGym: Evaluating Persona Agents and LLMs**
+   *Vinay Samuel, Henry Peng Zou, Yue Zhou, Shreyas Chaudhari, Ashwin Kalyan, Tanmay Rajpurohit, Ameet Deshpande, Karthik Narasimhan, Vishvak Murahari.* [[abs](https://arxiv.org/abs/2407.18416)], 2024.10
+
 #### 👨‍👩‍👧‍👦 Demographics
 
 -  **Expertprompting: Instructing large language models to be distinguished experts**
