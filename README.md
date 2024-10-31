@@ -369,6 +369,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715)], 2024.03
 
+- **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**
+   *Xinyi Mou, Jingcong Liang, Jiayu Lin, Xinnong Zhang, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei* [[abs](https://arxiv.org/abs/2410.19346)], 2024.10
+
 - **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**
    *Chenxu Wang, Bin Dai, Huaping Liu, Baoyuan Wang.* [[abs](https://arxiv.org/abs/2404.05337)], 2024.04
 
