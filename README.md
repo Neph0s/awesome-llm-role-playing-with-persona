@@ -128,11 +128,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**
    *Tianhao Shen, Sun Li, Quan Tu, Deyi Xiong.* [[abs](https://arxiv.org/abs/2312.16132)], 2023.12
 
--  **Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement**
-   *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2402.10618)], 2024.02
+-  **ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning**
+   *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2409.14710)], 2024.09
 
 -  **SocialBench: Sociality Evaluation of Role-Playing Conversational Agents**
-   *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
+   *Hongzhan Chen, Hehong Chen, Ming Yan, Wenshen Xu, Xing Gao, Weizhou Shen, Xiaojun Quan, Chenliang Li, Ji Zhang, Fei Huang, Jingren Zhou.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
 - **Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**
    *Yiting Ran, Xintao Wang, Rui Xu, Xinfeng Yuan, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2406.18921)], Findings of EMNLP 2024
