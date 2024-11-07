@@ -146,6 +146,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**
    *Yeyong Yu, Runsheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian.* [[abs](https://arxiv.org/abs/2408.10903)], 2024.08
 
+- **PRODIGy: a PROfile-based DIalogue Generation dataset**
+  *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini* [[abs](https://arxiv.org/abs/2311.05195)] [[dataset](https://github.com/LanD-FBK/prodigy-dataset)], NAACL Findings 2024
+
 *Original Characters*
 
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
@@ -185,10 +188,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CultureLLM: Incorporating Cultural Differences into Large Language Models**
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.02
 
-
-
-- **PRODIGy: a PROfile-based DIalogue Generation dataset**
-  *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini* [[abs](https://arxiv.org/abs/2311.05195)] [[dataset](https://github.com/LanD-FBK/prodigy-dataset)], NAACL Findings 2024
 
 #### 🤖 Personalization
 
