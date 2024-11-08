@@ -188,6 +188,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CultureLLM: Incorporating Cultural Differences into Large Language Models**
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.02
 
+- **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**
+   *CDo Xuan Long, Kenji Kawaguchi, Min Yen Kan, Nancy F Chen.* [[abs](https://arxiv.org/abs/2311.08385)], 2024.11
 
 #### 🤖 Personalization
 
@@ -296,6 +298,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation**
    *Razan Baltaji, Babak Hemmatian, Lav R. Varshney.* [[abs](https://arxiv.org/abs/2405.03862)], 2024.05
+
+-  **Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**
+
+   *Do Xuan Long, Duong Ngoc Yen, Anh Tuan Luu, Kenji Kawaguchi, Min-Yen Kan, Nancy F. Chen.* [[abs](https://arxiv.org/abs/2411.00492)], 2024.11, EMNLP 2024.
 
 ### 🧠 Anthropomorphic Cognition
 
