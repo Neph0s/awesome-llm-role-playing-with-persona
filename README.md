@@ -239,6 +239,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
    *Yun-Shiuan Chuang, Krirk Nirunwiroj, Zach Studdiford, Agam Goyal, Vincent V. Frigo, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy T. Rogers.* [[abs](https://arxiv.org/abs/2406.17232)], 2024.06
 
+- **Generative Agent Simulations of 1,000 People**
+   *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, Benjamin Mako Hill, Carrie Cai, Meredith Ringel Morris, Robb Willer, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2411.10109)], 2024.11
+
 
 ### 👥 Multi Agents
 
@@ -358,7 +361,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Lucio La Cava, Davide Costa, Andrea Tagarelli.*, [[abs](https://arxiv.org/abs/2401.07115)], 2024.01
 
-
+- **Generative Agent Simulations of 1,000 People**
+   *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, Benjamin Mako Hill, Carrie Cai, Meredith Ringel Morris, Robb Willer, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2411.10109)], 2024.11
 
 #### 👥 Social Intelligence & Theory-of-Mind
 
