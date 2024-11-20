@@ -86,6 +86,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Nafis Sadeq, Zhouhang Xie, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley.*, [[abs](https://arxiv.org/abs/2406.17260)] [[dataset](https://github.com/NafisSadeq/rolefact)], Findings of EMNLP 2024
 
+-  **Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing**
+
+   *Letian Peng, Jingbo Shang.*, [[abs](https://arxiv.org/abs/2405.07726)] [[dataset](https://github.com/KomeijiForce/Active_Passive_Constraint_Koishiday_2024)], NeurIPS 2024
+
 -  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
