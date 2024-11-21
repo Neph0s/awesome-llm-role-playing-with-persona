@@ -436,6 +436,15 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **[[角色扮演大模型的碎碎念 (Ramblings on Large Language Models for Role-Playing)](https://mp.weixin.qq.com/s/yoM-srJYGGfyd1VXirg_Hg)]**, 2024.03
 
+- **[[聊一聊做角色扮演大模型的经验 (Discussing Experiences in Developing Role-Playing Large Language Models)](https://zhuanlan.zhihu.com/p/3641608640)]**, 2024.10
+
+- **[[角色扮演大模型技术分享 (Technical Insights on Role-Playing Large Language Models)](https://zhuanlan.zhihu.com/p/685823865)]**, 2024.03
+
+- **[[角色扮演大模型技术分享2-超拟人模型的困境 (Technical Insights on Role-Playing Large Language Models 2 - The Dilemma of Super-Anthropomorphic Models)](https://zhuanlan.zhihu.com/p/719135803)]**, 2024.09
+
+- **[[角色扮演大模型技术分享3-拟人能力提升&数据合成pipeline (Technical Insights on Role-Playing Large Language Models 3 - Improving Anthropomorphic Capabilities & Data Synthesis Pipeline)](https://zhuanlan.zhihu.com/p/719772276)]**, 2024.09
+
+
 #### 📄 Papers
 
 - **One Thousand and One Pairs: A “novel” challenge for long-context language models**
