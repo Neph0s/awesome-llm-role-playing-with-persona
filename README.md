@@ -66,9 +66,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
 
--  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
+-  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
-   *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
+   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], Arxiv 2025
 
 -  **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
@@ -81,6 +81,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **Character-LLM: A Trainable Agent for Role-Playing.**
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
+
+-  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
+
+   *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
 
 -  **Mitigating Hallucination in Fictional Character Role-Play**
 
@@ -419,6 +423,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 ### 🌐 Others <!---others-2-->
 
 #### 📂 Resources
+
+- **Deepsex**
+   *ValueFX9507.* [[huggingface](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4)]
+
 
 - **RPBench Leaderboard**
    *Boson AI.* [[leaderboard](https://boson.ai/rpbench/)]
