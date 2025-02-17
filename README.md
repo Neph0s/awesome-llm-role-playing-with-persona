@@ -90,6 +90,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Nafis Sadeq, Zhouhang Xie, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley.*, [[abs](https://arxiv.org/abs/2406.17260)] [[dataset](https://github.com/NafisSadeq/rolefact)], Findings of EMNLP 2024
 
+-  **Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing**
+
+   *Letian Peng, Jingbo Shang.*, [[abs](https://arxiv.org/abs/2405.07726)] [[dataset](https://github.com/KomeijiForce/Active_Passive_Constraint_Koishiday_2024)], NeurIPS 2024
+
 -  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
 
@@ -294,8 +298,12 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**
    *Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng* [[abs](https://arxiv.org/abs/2406.11683)], 2024.06
 
+- **MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education**
+  *Murong Yue, Wijdane Mifdal, Yixuan Zhang, Jennifer Suh, Ziyu Yao.* [[abs](https://murongyue.github.io/MathVC.github.io/)], 2024.4
+
 - **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory**
    *Gordon Dai, Weijia Zhang, Jinhan Li, Siqi Yang, Chidera Onochie lbe, Srihas Rao, Arthur Caetano, Misha Sra.* [[abs](https://arxiv.org/abs/2406.14373)], 2024.06
+
 
 - **Dialogue Action Tokens: Steering Language Models in Goal-Directed Dialogue with a Multi-Turn Planner**
    *Kenneth Li, Yiming Wang, Fernanda Viégas, Martin Wattenberg.* [[abs](https://arxiv.org/abs/2406.11978)], 2024.06
