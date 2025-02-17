@@ -157,7 +157,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **PRODIGy: a PROfile-based DIalogue Generation dataset**
   *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini* [[abs](https://arxiv.org/abs/2311.05195)] [[dataset](https://github.com/LanD-FBK/prodigy-dataset)], NAACL Findings 2024
 
+- **CharacterBench: Benchmarking Character Customization of Large Language Models**
+   *Jinfeng Zhou, Yongkang Huang, Bosi Wen, Guanqun Bi, Yuxuan Chen, Pei Ke, Zhuang Chen, Xiyao Xiao, Libiao Peng, Kuntian Tang, Rongsheng Zhang, Le Zhang, Tangjie Lv, Zhipeng Hu, Hongning Wang, Minlie Huang* [[abs](https://arxiv.org/abs/2412.11912)], AAAI 2025
+
 *Original Characters*
+
+- **OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**
+   *Xiaoyang Wang, Hongming Zhang, Tao Ge, Wenhao Yu, Dian Yu, Dong Yu.* [[abs](https://arxiv.org/abs/2501.15427)], 2025.01
 
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
    *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* [[abs](https://arxiv.org/abs/2406.20094)], 2024.06
