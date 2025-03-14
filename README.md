@@ -12,10 +12,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *Here are some other paper lists you might be interested in:*
 
-💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg)**[Persona Paper](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
-
-🔬 ![Last Commit](https://img.shields.io/github/last-commit/penguinnnnn/awesome-llm-and-society.svg)**[LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society):**  Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.
-
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
 ## 🔔 News
@@ -82,7 +78,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
--  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
+-  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.**
 
    *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
 
