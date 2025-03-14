@@ -20,6 +20,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ## 🔔 News
 
+- **2025-03-14 I'd like to recommend [[arxiv-sanity-lite]](https://arxiv-sanity.org/), a paper recommendation system that I'm currently maintaining. Originally developed by Andrej Karpathy, this tool has proven invaluable in helping researchers discover relevant academic papers efficiently. I've found it particularly effective for staying up-to-date with research in specific topics, including LLM role-playing.**
+
 - **2024-10-09 🎉Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
 
 - **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
@@ -62,13 +64,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *Established Characters*
 
+*Most Recommended*
+
 -  **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
-
--  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
-
-   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], Arxiv 2025
 
 -  **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
@@ -85,6 +85,28 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews. (Previously: Do Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots)**
 
    *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
+
+-  **PIPPA: A Partially Synthetic Conversational Dataset**
+   *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
+
+- **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**
+
+   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
+
+*Trending*
+
+-  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
+
+   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], 2025.02
+
+- **RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following**
+   *Junru Lu, Jiazheng Li, Guodong Shen, Lin Gui, Siyu An, Yulan He, Di Yin, Xing Sun.* [[abs](https://arxiv.org/abs/2502.11387)], 2025.02
+
+- **Reasoning Does Not Necessarily Improve Role-Playing Ability**
+   *Xiachong Feng, Longxu Dou, Lingpeng Kong.* [[abs]](https://arxiv.org/abs/2502.16940), 2025.02
+
+- **CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds**
+   *Lei Wang, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2412.05631)], 2024.12
 
 -  **Mitigating Hallucination in Fictional Character Role-Play**
 
@@ -207,7 +229,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🤖 Personalization
 
+- **DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**
+   *Aili Chen, Chengyu Du, Jiangjie Chen, Jinghan Xu, Yikai Zhang, Siyu Yuan, Zulong Chen, Liangyue Li, Yanghua Xiao* [[abs](https://arxiv.org/abs/2502.11078)], 2025.02
 
+- **How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**
+   *Rui Li, Heming Xia, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui* [[abs](https://arxiv.org/abs/2502.14642)], 2025.02
 
 -  **LaMP: When Large Language Models Meet Personalization**
    *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani* [[abs](https://arxiv.org/abs/2304.11406)], 2023.04.
@@ -438,14 +464,16 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 📂 Resources
 
-- **Deepsex**
+- **Model: CoSER-8B, CoSER-70B**
+   *Xintao Wang, et.al.* [[huggingface](https://github.com/Neph0s/COSER)]
+
+- **Model: Deepsex**
    *ValueFX9507.* [[huggingface](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4)]
 
-
-- **RPBench Leaderboard**
+- **Benchmark: RPBench Leaderboard**
    *Boson AI.* [[leaderboard](https://boson.ai/rpbench/)]
 
-- **Higgs-Llama-3-70B**
+- **Model: Higgs-Llama-3-70B**
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
 
 #### 📰 Blogs
