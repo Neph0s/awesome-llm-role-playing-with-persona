@@ -95,6 +95,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], 2025.02
 
+- **Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**
+   *Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, Weimin Lyu, Yanfang Ye, Toby Jia-Jun Li, Dakuo Wang* [[abs](https://arxiv.org/abs/2502.13012)], 2025.02
+
 - **RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following**
    *Junru Lu, Jiazheng Li, Guodong Shen, Lin Gui, Siyu An, Yulan He, Di Yin, Xing Sun.* [[abs](https://arxiv.org/abs/2502.11387)], 2025.02
 
