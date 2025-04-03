@@ -98,6 +98,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**
    *Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, Weimin Lyu, Yanfang Ye, Toby Jia-Jun Li, Dakuo Wang* [[abs](https://arxiv.org/abs/2502.13012)], 2025.02
 
+- **RPGBENCH: Evaluating Large Language Models as Role-Playing Game Engines**
+   *Pengfei Yu, Dongming Shen, Silin Meng, Jaewon Lee, Weisu Yin, Andrea Yaoyun Cui, Zhenlin Xu, Yi Zhu, Xingjian Shi, Mu Li, Alex Smola*[[abs](https://www.arxiv.org/abs/2502.00595)], 2025.02
+
 - **RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following**
    *Junru Lu, Jiazheng Li, Guodong Shen, Lin Gui, Siyu An, Yulan He, Di Yin, Xing Sun.* [[abs](https://arxiv.org/abs/2502.11387)], 2025.02
 
