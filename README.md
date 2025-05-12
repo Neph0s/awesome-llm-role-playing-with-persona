@@ -93,16 +93,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
-   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], 2025.02
+   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
 
 - **Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**
    *Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, Weimin Lyu, Yanfang Ye, Toby Jia-Jun Li, Dakuo Wang* [[abs](https://arxiv.org/abs/2502.13012)], 2025.02
 
 - **RPGBENCH: Evaluating Large Language Models as Role-Playing Game Engines**
    *Pengfei Yu, Dongming Shen, Silin Meng, Jaewon Lee, Weisu Yin, Andrea Yaoyun Cui, Zhenlin Xu, Yi Zhu, Xingjian Shi, Mu Li, Alex Smola*[[abs](https://www.arxiv.org/abs/2502.00595)], 2025.02
-
-- **RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following**
-   *Junru Lu, Jiazheng Li, Guodong Shen, Lin Gui, Siyu An, Yulan He, Di Yin, Xing Sun.* [[abs](https://arxiv.org/abs/2502.11387)], 2025.02
 
 - **Reasoning Does Not Necessarily Improve Role-Playing Ability**
    *Xiachong Feng, Longxu Dou, Lingpeng Kong.* [[abs]](https://arxiv.org/abs/2502.16940), 2025.02
@@ -146,7 +143,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)], Findings of ACL 2024
 
 
--  **“Let Your Characters Tell Their Story”: A Dataset for Character-Centric Narrative Understanding**
+-  **"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding**
    *Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan, Snigdha Chaturvedi.*, [[abs](https://aclanthology.org/2021.findings-emnlp.150/)], EMNLP findings 2021
 
 
@@ -163,7 +160,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning**
    *Yihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai.* [[abs](https://arxiv.org/abs/2409.14710)], 2024.09
 
--  **SocialBench: Sociality Evaluation of Role-Playing Conversational Agents**
+- **SocialBench: Sociality Evaluation of Role-Playing Conversational Agents**
    *Hongzhan Chen, Hehong Chen, Ming Yan, Wenshen Xu, Xing Gao, Weizhou Shen, Xiaojun Quan, Chenliang Li, Ji Zhang, Fei Huang, Jingren Zhou.* [[abs](https://arxiv.org/abs/2403.13679)], 2024.03
 
 - **Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**
@@ -186,6 +183,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *Synthetic Characters*
 
+- **LLM Generated Persona is a Promise with a Catch**
+   *Ang Li, Haozhe Chen, Hongseok Namkoong, Tianyi Peng.* [[abs](https://arxiv.org/pdf/2503.16527)], 2025.03
+
+- **RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following**
+   *Junru Lu, Jiazheng Li, Guodong Shen, Lin Gui, Siyu An, Yulan He, Di Yin, Xing Sun.* [[abs](https://arxiv.org/abs/2503.16527)], 2025.02
+
+
 - **OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**
    *Xiaoyang Wang, Hongming Zhang, Tao Ge, Wenhao Yu, Dian Yu, Dong Yu.* [[abs](https://arxiv.org/abs/2501.15427)], 2025.01
 
@@ -200,6 +204,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 👨‍👩‍👧‍👦 Demographics
 
+- **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**
+   *Xuan Long Do, Kenji Kawaguchi, Min-Yen Kan, Nancy Chen.* [[abs](https://aclanthology.org/2025.coling-main.172.pdf)], COLING 2025
+   
 -  **Expertprompting: Instructing large language models to be distinguished experts**
 
    *Benfeng Xu , An Yang , Junyang Lin , Quan Wang , Chang Zhou, Yongdong Zhang and Zhendong Mao.* [[abs](https://arxiv.org/abs/2305.14688)], 2023.5
@@ -227,7 +234,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.* [[abs](https://arxiv.org/abs/2402.10946)], 2024.02
 
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**
-   *CDo Xuan Long, Kenji Kawaguchi, Min Yen Kan, Nancy F Chen.* [[abs](https://arxiv.org/abs/2311.08385)], 2024.11
+   *Xuan Long Do, Kenji Kawaguchi, Min-Yen Kan, Nancy Chen.* [[abs](https://aclanthology.org/2025.coling-main.172.pdf)], COling 2025
 
 #### 🤖 Personalization
 
@@ -246,7 +253,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **On the steerability of large language models toward data-driven personas**
    *Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta* [[abs](https://aclanthology.org/2024.naacl-long.405/)], NAACL 2024.
 
-- **Show, Don’t Tell: Aligning Language Models with Demonstrated Feedback**
+- **Show, Don't Tell: Aligning Language Models with Demonstrated Feedback**
    *Omar Shaikh, Michelle Lam, Joey Hejna, Yijia Shao, Michael Bernstein, Diyi Yang* [[abs](https://arxiv.org/pdf/2406.00888)], 2024.06
 
 - **PersLLM: A Personified Training Approach for Large Language Models**
@@ -275,7 +282,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**
    *Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi* [[abs](https://arxiv.org/abs/2312.00763)], 2023.12.
 
--  **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
+- **PersonalityChat: Conversation Distillation for Personalized Dialog Modeling with Facts and Traits**
    *Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann, Walter Daelemans.* [[abs](https://arxiv.org/abs/2401.07363)], 2024.01.
 
 - **Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**
@@ -499,7 +506,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 📄 Papers
 
-- **One Thousand and One Pairs: A “novel” challenge for long-context language models**
+- **One Thousand and One Pairs: A "novel" challenge for long-context language models**
    *Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2406.16264)], 2024.06
 
 - **NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens**
