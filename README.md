@@ -66,6 +66,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
 
+-  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
+
+   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
+
 -  **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.**
 
    *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng.*, [[abs](https://arxiv.org/abs/2310.00746)], Findings of ACL 2024
@@ -78,6 +82,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu.*, [[abs](https://arxiv.org/abs/2310.10158)], EMNLP 2023
 
+-  **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
+   *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], ACL 2024
+
+
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.**
 
    *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
@@ -89,7 +97,15 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
 
+- **CharacterBench: Benchmarking Character Customization of Large Language Models**
+   
+   *Jinfeng Zhou, Yongkang Huang, Bosi Wen, Guanqun Bi, Yuxuan Chen, Pei Ke, Zhuang Chen, Xiyao Xiao, Libiao Peng, Kuntian Tang, Rongsheng Zhang, Le Zhang, Tangjie Lv, Zhipeng Hu, Hongning Wang, Minlie Huang* [[abs](https://arxiv.org/abs/2412.11912)], AAAI 2025
+
 *Trending*
+
+- **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
+
+   *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], 2025.04
 
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
@@ -206,7 +222,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**
    *Xuan Long Do, Kenji Kawaguchi, Min-Yen Kan, Nancy Chen.* [[abs](https://aclanthology.org/2025.coling-main.172.pdf)], COLING 2025
-   
+
 -  **Expertprompting: Instructing large language models to be distinguished experts**
 
    *Benfeng Xu , An Yang , Junyang Lin , Quan Wang , Chang Zhou, Yongdong Zhang and Zhendong Mao.* [[abs](https://arxiv.org/abs/2305.14688)], 2023.5
