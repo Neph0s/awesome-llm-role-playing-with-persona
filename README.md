@@ -254,6 +254,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🤖 Personalization
 
+- **Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale**
+   *Bowen Jiang, Zhuoqun Hao, Young-Min Cho, Bryan Li, Yuan Yuan, Sihao Chen, Lyle Ungar, Camillo J. Taylor, Dan Roth* [[abs](https://arxiv.org/abs/2504.14225)], 2025.04
+
 - **DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**
    *Aili Chen, Chengyu Du, Jiangjie Chen, Jinghan Xu, Yikai Zhang, Siyu Yuan, Zulong Chen, Liangyue Li, Yanghua Xiao* [[abs](https://arxiv.org/abs/2502.11078)], 2025.02
 
