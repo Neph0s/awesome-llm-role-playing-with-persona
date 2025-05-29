@@ -4,8 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)
 
-Awesome-llm-role-playing-agents: a curated list of resources for large language models, personas, and role-playing agents.
-
 ---
 
 This repo primarily focuses on **character role-playing**, such as fictional characters, celebrities, and historical figures. While role-playing language agents are related to many research topics, such as multi-agent systems and long-context models, we cannot guarantee the inclusion of papers in these areas.
