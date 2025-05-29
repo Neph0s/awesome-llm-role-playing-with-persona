@@ -69,6 +69,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
 
+-  **OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**
+
+   *Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2505.20277)], ACL 2025
+
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
    *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
