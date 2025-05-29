@@ -16,9 +16,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ## 🔔 News
 
-- **2025-03-14 I'd like to recommend [[arxiv-sanity-lite]](https://arxiv-sanity.org/), a paper recommendation system that I'm currently maintaining. Originally developed by Andrej Karpathy, this tool has proven invaluable in helping researchers discover relevant academic papers efficiently. I've found it particularly effective for staying up-to-date with research in specific topics, including LLM role-playing.**
+ <!--- **2025-03-14 I'd like to recommend [[arxiv-sanity-lite]](https://arxiv-sanity.org/), a paper recommendation system that I'm currently maintaining. Originally developed by Andrej Karpathy, this tool has proven invaluable in helping researchers discover relevant academic papers efficiently. I've found it particularly effective for staying up-to-date with research in specific topics, including LLM role-playing.** -->
 
-- **2024-10-09 🎉Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
+- **2025-05-02 🎉 We are glad that CoSER [[arxiv](https://arxiv.org/abs/2502.09082)] got accepted by ICML 2025! CoSER provides a comprehensive suite for character role-playing of LLMs, including high-quality authentic datasets, open state-of-the-art models, and nuanced evaluation protocol. **
+
+- **2025-05-15 🎉 We are thrilled that BookWorld [[arxiv](https://arxiv.org/abs/2504.14538)] got accepted by ACL 2025! In BookWorld, we create artificial fictional worlds (i.e., multi-agent societies for characters from fictional books). They live and interact with each other, creating novel stories that transcend their original narratives! 
+
+- **2024-10-09 🎉 Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
 
 - **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
 
@@ -85,10 +89,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.**
    *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan.*, [[abs](https://arxiv.org/abs/2401.01275)], ACL 2024
 
-
 -  **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.**
 
    *Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2310.17976)], ACL 2024
+
+- **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
+
+   *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], ACL 2025
 
 -  **PIPPA: A Partially Synthetic Conversational Dataset**
    *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
@@ -105,7 +112,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
 
-   *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], 2025.04
+   *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], ACL 2025
 
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
