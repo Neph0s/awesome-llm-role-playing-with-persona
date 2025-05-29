@@ -18,10 +18,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
  <!--- **2025-03-14 I'd like to recommend [[arxiv-sanity-lite]](https://arxiv-sanity.org/), a paper recommendation system that I'm currently maintaining. Originally developed by Andrej Karpathy, this tool has proven invaluable in helping researchers discover relevant academic papers efficiently. I've found it particularly effective for staying up-to-date with research in specific topics, including LLM role-playing.** -->
 
-- **2025-05-02 🎉 We are glad that CoSER [[arxiv](https://arxiv.org/abs/2502.09082)] got accepted by ICML 2025! CoSER provides a comprehensive suite for character role-playing of LLMs, including high-quality authentic datasets, open state-of-the-art models, and nuanced evaluation protocol.**
 
 - **2025-05-15 🎉 We are thrilled that BookWorld [[arxiv](https://arxiv.org/abs/2504.14538)] got accepted by ACL 2025! In BookWorld, we create artificial fictional worlds (i.e., multi-agent societies for characters from fictional books). They live and interact with each other, creating novel stories that transcend their original narratives!**
 
+- **2025-05-02 🎉 We are glad that CoSER [[arxiv](https://arxiv.org/abs/2502.09082)] got accepted by ICML 2025! CoSER provides a comprehensive suite for character role-playing of LLMs, including high-quality authentic datasets, open state-of-the-art models, and nuanced evaluation protocol.**
+- 
 - **2024-10-09 🎉 Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
 
 - **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
