@@ -116,10 +116,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
 
    *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], ACL 2025
-
--  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
-
-   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
    
 -  **OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**
 
@@ -141,6 +137,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**
    *Daniela Occhipinti, Marco Guerini, Malvina Nissim.* [[abs](https://arxiv.org/abs/2505.24613)], 2025.05
 
+-  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
+
+   *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
+   
 - **Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**
    *Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, Weimin Lyu, Yanfang Ye, Toby Jia-Jun Li, Dakuo Wang* [[abs](https://arxiv.org/abs/2502.13012)], 2025.02
 
