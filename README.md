@@ -69,10 +69,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    
    *Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie, Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu Hu, Siye Wu, Scott Ren, Ziquan Fu, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.18231)], TMLR 2024.04
 
--  **OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**
-
-   *Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2505.20277)], ACL 2025
-
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
    *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
@@ -111,6 +107,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    
    *Jinfeng Zhou, Yongkang Huang, Bosi Wen, Guanqun Bi, Yuxuan Chen, Pei Ke, Zhuang Chen, Xiyao Xiao, Libiao Peng, Kuntian Tang, Rongsheng Zhang, Le Zhang, Tangjie Lv, Zhipeng Hu, Hongning Wang, Minlie Huang* [[abs](https://arxiv.org/abs/2412.11912)], AAAI 2025
 
+-  **OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**
+
+   *Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2505.20277)], ACL 2025
+
 *Trending*
 
 - **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
@@ -120,6 +120,26 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 -  **CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**
 
    *Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Wei Wang, Yanghua Xiao, Shuchang Zhou.* [[abs](https://arxiv.org/abs/2502.09082)], ICML 2025
+   
+-  **OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**
+
+   *Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2505.20277)], ACL 2025
+
+- **PsyMem: Fine-grained psychological alignment and Explicit Memory Control for Advanced Role-Playing LLMs**
+   
+   *Xilong Cheng, Yunxiao Qin, Yuting Tan, Zhengnan Li, Ye Wang, Hongjiang Xiao, Yuan Zhang.* [[abs](https://arxiv.org/abs/2505.12814)], 2025.05
+
+- **RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward**
+   *Zongsheng Wang, Kaili Sun, Bowen Wu, Qun Yu, Ying Li, Baoxun Wang.* [[abs](https://arxiv.org/abs/2505.10218)], 2025.05
+
+- **ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**
+   *Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen, Jing Ye, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2505.23923)], 2025.05
+
+- **Codifying Character Logic in Role-Playing**
+   *Letian Peng, Jingbo Shang.* [[abs](https://arxiv.org/abs/2505.07705)], 2025.05
+
+- **When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**
+   *Daniela Occhipinti, Marco Guerini, Malvina Nissim.* [[abs](https://arxiv.org/abs/2505.24613)], 2025.05
 
 - **Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**
    *Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, Weimin Lyu, Yanfang Ye, Toby Jia-Jun Li, Dakuo Wang* [[abs](https://arxiv.org/abs/2502.13012)], 2025.02
@@ -132,6 +152,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds**
    *Lei Wang, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2412.05631)], 2024.12
+
+- **Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**
+   *Wenyuan Zhang, Shuaiyi Nie, Jiawei Sheng, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu.* [[abs](https://arxiv.org/abs/2409.11726)], 2024.09
 
 -  **Mitigating Hallucination in Fictional Character Role-Play**
 
