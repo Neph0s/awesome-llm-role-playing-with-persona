@@ -113,6 +113,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *Trending*
 
+- **Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**
+   
+   *Xiaoyu Zhan, Xinyu Fu, Hao Sun, Yuanqi Li, Jie Guo, Yanwen Guo.* [[abs](https://arxiv.org/abs/2507.16799)], 2025.07
+
 - **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
 
    *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], ACL 2025
