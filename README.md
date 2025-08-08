@@ -113,6 +113,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *Trending*
 
+- **Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark**
+   *Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, Qika Lin, Jiaxing Xu, Wenqiang Liu, Mengling Feng.* [[abs](https://aclanthology.org/2025.acl-long.731/)], ACL 2025
+ 
 - **Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**
    
    *Xiaoyu Zhan, Xinyu Fu, Hao Sun, Yuanqi Li, Jie Guo, Yanwen Guo.* [[abs](https://arxiv.org/abs/2507.16799)], 2025.07
