@@ -6,16 +6,13 @@
 
 ---
 
-This repo primarily focuses on **character role-playing**, such as fictional characters, celebrities, and historical figures. While role-playing language agents are related to many research topics, such as multi-agent systems and long-context models, we cannot guarantee the inclusion of papers in these areas.
+This repo primarily focuses on **character role-playing**, such as fictional characters, celebrities, and historical figures. While role-playing language agents are related to many research topics, such as multi-agent systems and long-context models, we cannot guarantee the inclusion of papers in these areas. 
 
 *Here are some other paper lists you might be interested in:*
 
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
 ## 🔔 News
-
- <!--- **2025-03-14 I'd like to recommend [[arxiv-sanity-lite]](https://arxiv-sanity.org/), a paper recommendation system that I'm currently maintaining. Originally developed by Andrej Karpathy, this tool has proven invaluable in helping researchers discover relevant academic papers efficiently. I've found it particularly effective for staying up-to-date with research in specific topics, including LLM role-playing.** -->
-
 
 - **2025-05-15 🎉 We are thrilled that BookWorld [[arxiv](https://arxiv.org/abs/2504.14538)] got accepted by ACL 2025! In BookWorld, we create artificial fictional worlds (i.e., multi-agent societies for characters from fictional books). They live and interact with each other, creating novel stories that transcend their original narratives!**
 
@@ -111,7 +108,13 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2505.20277)], ACL 2025
 
+- **Persona vectors: Monitoring and controlling character traits in language models**
+   *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic Blog, 2025.08
+  
 *Trending*
+
+- **Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation**
+   *Jisu Shin, Juhyun Oh, Eunsu Kim, Hoyun Song, Alice Oh.* [[abs](https://aclanthology.org/2025.findings-acl.1349/)], Findings of ACL 2025
 
 - **Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark**
    *Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, Qika Lin, Jiaxing Xu, Wenqiang Liu, Mengling Feng.* [[abs](https://aclanthology.org/2025.acl-long.731/)], ACL 2025
@@ -476,6 +479,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Generative Agent Simulations of 1,000 People**
    *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, Benjamin Mako Hill, Carrie Cai, Meredith Ringel Morris, Robb Willer, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2411.10109)], 2024.11
 
+- **Persona vectors: Monitoring and controlling character traits in language models**
+   *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic Blog, 2025.08 
+
 #### 👥 Social Intelligence & Theory-of-Mind
 
 -  **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
@@ -501,6 +507,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
    *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
+
+- **Sotopia-RL: Reward Design for Social Intelligence**
+  *Haofei Yu, Zhengyang Qi, Yining Zhao, Kolby Nottingham, Keyang Xuan, Bodhisattwa Prasad Majumder, Hao Zhu, Paul Pu Liang, Jiaxuan You.* [[abs](https://www.arxiv.org/abs/2508.03905)], 2025.08
 
 #### 🧠 Others <!---others-1-->
 
@@ -546,6 +555,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 📰 Blogs
 
+- **[[Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)]**, Anthropic Blog, 2025.08
+- 
 - **[[Character.ai 赛道的真相 (The Truth About the Character.ai Track)](https://mp.weixin.qq.com/s/H2KNDGRNHktHiQc3sayFsA)]**, 2024.08
 
 - **[[李沐：创业一年，人间三年！(Mu Li (Boson AI): One Year of Entrepreneurship, Three Years in the Human World!)](https://mp.weixin.qq.com/s/2lbCMo64-nU5yRz1cLQxYA)]**, 2024.08
