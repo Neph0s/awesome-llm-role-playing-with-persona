@@ -13,14 +13,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
 ## 🔔 News
-
-- **2025-05-15 🎉 We are thrilled that BookWorld [[arxiv](https://arxiv.org/abs/2504.14538)] got accepted by ACL 2025! In BookWorld, we create artificial fictional worlds (i.e., multi-agent societies for characters from fictional books). They live and interact with each other, creating novel stories that transcend their original narratives!**
-
-- **2025-05-02 🎉 We are glad that CoSER [[arxiv](https://arxiv.org/abs/2502.09082)] got accepted by ICML 2025! CoSER provides a comprehensive suite for character role-playing of LLMs, including high-quality authentic datasets, open state-of-the-art models, and nuanced evaluation protocol.**
  
 - **2024-10-09 🎉 Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
-
-- **2024-08-19 FYI: Boson AI has released their benchmark *[[RPBench Leaderboard](https://boson.ai/rpbench/)]* and open-source model *[[Higgs-Llama-3 70B V2](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]* which ranks first on it.**
 
 - **2024-06-28 We reorganized this repo, putting more focus on role-playing agents.**
 
@@ -58,9 +52,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🧙 Characters
 
-*Established Characters*
-
-*Most Recommended*
+*Quick Intro to Role-play LLMs*
 
 -  **From Persona to Personalization: A Survey on Role-Playing Language Agents.**
    
@@ -93,12 +85,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Yiting Ran, Xintao Wang, Tian Qiu, Jiaqing Liang, Yanghua Xiao, Deqing Yang.* [[abs](https://arxiv.org/abs/2504.14538)], ACL 2025
 
--  **PIPPA: A Partially Synthetic Conversational Dataset**
-   *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
-
 - **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**
 
-   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
+   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], Findings of EMNLP 2025
 
 - **CharacterBench: Benchmarking Character Customization of Large Language Models**
    
@@ -111,8 +100,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Persona vectors: Monitoring and controlling character traits in language models**
    *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic Blog, 2025.08
   
-*Trending*
-
+*All*
+*Established Characters*
 - **Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation**
    *Jisu Shin, Juhyun Oh, Eunsu Kim, Hoyun Song, Alice Oh.* [[abs](https://aclanthology.org/2025.findings-acl.1349/)], Findings of ACL 2025
 
@@ -122,6 +111,11 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**
    
    *Xiaoyu Zhan, Xinyu Fu, Hao Sun, Yuanqi Li, Jie Guo, Yanwen Guo.* [[abs](https://arxiv.org/abs/2507.16799)], 2025.07
+
+- **Thinking in Character: Advancing Role-Playing Agents with Role-Aware Reasoning**
+
+   *Yihong Tang, Kehai Chen, Muyun Yang, Zhengyu Niu, Jing Li, Tiejun Zhao, Min Zhang.* [[abs](https://arxiv.org/abs/2506.01748)], 2025.06
+
 
 - **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**
 
@@ -175,14 +169,14 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Letian Peng, Jingbo Shang.*, [[abs](https://arxiv.org/abs/2405.07726)] [[dataset](https://github.com/KomeijiForce/Active_Passive_Constraint_Koishiday_2024)], NeurIPS 2024
 
 -  **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models.**
-   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], 2023.11
+   *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang.*, [[abs](https://arxiv.org/abs/2311.16832)], EMNLP 2024, Industrial Track
 
 -  **PIPPA: A Partially Synthetic Conversational Dataset**
    *Tear Gosling, Alpin Dale, Yinhe Zheng.* [[abs](https://arxiv.org/abs/2308.05884)], 2023.08
 
 - **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**
 
-   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], 2024.04
+   *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2404.12138)], Findings of EMNLP 2025
 
 
 -  **Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**
@@ -507,6 +501,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
    *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap* [[abs](https://arxiv.org/abs/2403.05020)], 2024.03
+
+- **SocialEval: Evaluating Social Intelligence of Large Language Models**
+  *Jinfeng Zhou, Yuxuan Chen, Yihan Shi, Xuanming Zhang, Leqi Lei, Yi Feng, Zexuan Xiong, Miao Yan, Xunzhi Wang, Yaru Cao, Jianing Yin, Shuai Wang, Quanyu Dai, Zhenhua Dong, Hongning Wang, Minlie Huang.* [[abs](https://www.arxiv.org/abs/2506.00900)], 2025.06
 
 - **Sotopia-RL: Reward Design for Social Intelligence**
   *Haofei Yu, Zhengyang Qi, Yining Zhao, Kolby Nottingham, Keyang Xuan, Bodhisattwa Prasad Majumder, Hao Zhu, Paul Pu Liang, Jiaxuan You.* [[abs](https://www.arxiv.org/abs/2508.03905)], 2025.08
