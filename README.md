@@ -99,9 +99,21 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Persona vectors: Monitoring and controlling character traits in language models**
    *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic Blog, 2025.08
-  
+
+
+- **CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization**
+   *Xinge Ye, Rui Wang, Yuchuan Wu, Victor Ma, Feiteng Fang, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2508.09074)], Tongyi Lab, 2025.08
+
+
 *All*
 *Established Characters*
+
+- **CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization**
+   *Xinge Ye, Rui Wang, Yuchuan Wu, Victor Ma, Feiteng Fang, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2508.09074)], Tongyi Lab, 2025.08
+
+- **RMTBench: Benchmarking LLMs Through Multi-Turn User-Centric Role-Playing**
+   *Hao Xiang, Tianyi Tang, Yang Su, Bowen Yu, An Yang, Fei Huang, Yichang Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Jingren Zhou, Junyang Lin, Le Sun.* [[abs](https://arxiv.org/abs/2507.20352)], 2025.08
+
 - **Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation**
    *Jisu Shin, Juhyun Oh, Eunsu Kim, Hoyun Song, Alice Oh.* [[abs](https://aclanthology.org/2025.findings-acl.1349/)], Findings of ACL 2025
 
@@ -350,6 +362,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 ### 👥 Multi Agents
 
+#### 🧙 Characters
+
 -  **Generative Agents: Interactive Simulacra of Human Behavior**
    *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.04.
 
@@ -413,11 +427,28 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 -  **Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**
 
-   *Do Xuan Long, Duong Ngoc Yen, Anh Tuan Luu, Kenji Kawaguchi, Min-Yen Kan, Nancy F. Chen.* [[abs](https://arxiv.org/abs/2411.00492)], 2024.11, EMNLP 2024.
+   *Do Xuan Long, Duong Ngoc Yen, Anh Tuan Luu, Kenji Kawaguchi, Min-Yen Kan, Nancy F. Chen.* [[abs](https://arxiv.org/abs/2411.00492)], EMNLP 2024.
+
+- **Project Sid: Many-agent simulations toward AI civilization**
+   *Altera.AL, Andrew Ahn, Nic Becker, Stephanie Carroll, Nico Christie, Manuel Cortes, Arda Demirci, Melissa Du, Frankie Li, Shuying Luo, Peter Y Wang, Mathew Willows, Feitong Yang, Guangyu Robert Yang.* [[abs](https://arxiv.org/abs/2411.00114)], 2024.11
+
+- **SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users**
+   *Xinnong Zhang, Jiayu Lin, Xinyi Mou, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Xuanjing Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei.* [[abs](https://arxiv.org/abs/2504.10157)], 2025.04
+
+- **Modeling Earth-Scale Human-Like Societies with One Billion Agents**
+   *Haoxiang Guan, Jiyan He, Liyang Fan, Zhenzhen Ren, Shaobin He, Xin Yu, Yuan Chen, Shuxin Zheng, Tie-Yan Liu, Zhen Liu.* [[abs](https://www.arxiv.org/abs/2506.12078)], 2025.06
+
+
+
+
+
 
 ### 🧠 Anthropomorphic Cognition
 
 #### 🎭 Personality Traits
+
+- **Persona vectors: Monitoring and controlling character traits in language models**
+   *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic, 2025.08 
 
 -  **Personality Traits in Large Language Models**
 
@@ -473,8 +504,6 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Generative Agent Simulations of 1,000 People**
    *Joon Sung Park, Carolyn Q. Zou, Aaron Shaw, Benjamin Mako Hill, Carrie Cai, Meredith Ringel Morris, Robb Willer, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2411.10109)], 2024.11
 
-- **Persona vectors: Monitoring and controlling character traits in language models**
-   *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic Blog, 2025.08 
 
 #### 👥 Social Intelligence & Theory-of-Mind
 
