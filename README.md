@@ -442,6 +442,21 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
+   *Do Xuan Long, Duong Ngoc Yen, Anh Tuan Luu, Kenji Kawaguchi, Min-Yen Kan, Nancy F. Chen.* [[abs](https://arxiv.org/abs/2411.00492)], EMNLP 2024.
+
+- **Project Sid: Many-agent simulations toward AI civilization**
+   *Altera.AL, Andrew Ahn, Nic Becker, Stephanie Carroll, Nico Christie, Manuel Cortes, Arda Demirci, Melissa Du, Frankie Li, Shuying Luo, Peter Y Wang, Mathew Willows, Feitong Yang, Guangyu Robert Yang.* [[abs](https://arxiv.org/abs/2411.00114)], 2024.11
+
+- **SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users**
+   *Xinnong Zhang, Jiayu Lin, Xinyi Mou, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Xuanjing Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei.* [[abs](https://arxiv.org/abs/2504.10157)], 2025.04
+
+- **Modeling Earth-Scale Human-Like Societies with One Billion Agents**
+   *Haoxiang Guan, Jiyan He, Liyang Fan, Zhenzhen Ren, Shaobin He, Xin Yu, Yuan Chen, Shuxin Zheng, Tie-Yan Liu, Zhen Liu.* [[abs](https://www.arxiv.org/abs/2506.12078)], 2025.06
+
+
+
+
+
 
 ### 🧠 Anthropomorphic Cognition
 
