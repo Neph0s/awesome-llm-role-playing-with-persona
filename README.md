@@ -447,6 +447,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🎭 Personality Traits
 
+- **PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions**
+   *Yixuan Tang, Yi Yang, Ahmed Abbasi.* [[abs](https://arxiv.org/abs/2509.07370)]， 2025.09
+
 - **Persona vectors: Monitoring and controlling character traits in language models**
    *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey.* [[abs](https://www.anthropic.com/research/persona-vectors)], Anthropic, 2025.08 
 
@@ -561,7 +564,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
    *Jintian Zhang, Xin Xu, Shumin Deng.*, 2023.10. Tags: social psychology.
 
-
+- **REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation**
+   *Dong-Ho Lee, Adyasha Maharana, Jay Pujara, Xiang Ren, Francesco Barbieri.* [[abs](https://arxiv.org/abs/2502.13270)], 2025.2
 
 ### 🌐 Others <!---others-2-->
 
