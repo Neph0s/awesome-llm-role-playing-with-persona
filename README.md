@@ -540,6 +540,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 👥 Social Intelligence & Theory-of-Mind
 
+- **SI-Bench: Benchmarking Social Intelligence of Large Language Models in Human-to-Human Conversations**
+   *Shuai Huang, Wenxuan Zhao, Jun Gao.* [[abs](https://arxiv.org/abs/2510.23182)], 2025.10
+
 -  **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
 
    *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
