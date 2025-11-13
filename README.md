@@ -34,6 +34,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
       - [👨‍👩‍👧‍👦 Demographics](#️-demographics)
       - [🤖 Personalization](#-personalization)
     - [👥 Multi Agents](#-multi-agents)
+    - [🤖 GUI Agents for Games](#-gui-agents-for-games)
     - [🧠 Anthropomorphic Cognition](#-anthropomorphic-cognition)
       - [🎭 Personality Traits](#-personality-traits)
       - [👥 Social Intelligence & Theory-of-Mind](#-social-intelligence--theory-of-mind) 
@@ -107,6 +108,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 *All*
 *Established Characters*
+
+- **Too Good to be Bad: On the Failure of LLMs to Role-Play Villains**
+   *Zihao Yi, Qingxuan Jiang, Ruotian Ma, Xingyu Chen, Qu Yang, Mengru Wang, Fanghua Ye, Ying Shen, Zhaopeng Tu, Xiaolong Li, Linus.* [[abs](https://arxiv.org/abs/2511.04962)],  2025.11
 
 - **CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization**
    *Xinge Ye, Rui Wang, Yuchuan Wu, Victor Ma, Feiteng Fang, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2508.09074)], Tongyi Lab, 2025.08
@@ -458,9 +462,20 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 
 
+### 🤖 GUI Agents for Games
+
+- **Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds**
+   *Weihao Tan, Xiangyang Li, Yunhao Fang, Heyuan Yao, Shi Yan, Hao Luo, Tenglong Ao, Huihui Li, Hongbin Ren, Bairen Yi, Yujia Qin, Bo An, Libin Liu, Guang Shi.* [[abs](https://arxiv.org/abs/2511.08892)], ByteDance Seed 2025.11
+
+- **The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use**
+   *Siyuan Hu, Mingyu Ouyang, Difei Gao, Mike Zheng Shou.* [[abs](https://arxiv.org/abs/2411.10323)], 2024.11
+
 ### 🧠 Anthropomorphic Cognition
 
 #### 🎭 Personality Traits
+
+- **Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI**
+   *Sharan Maiya, Henning Bartsch, Nathan Lambert, Evan Hubinger.* [[abs](https://arxiv.org/pdf/2511.01689)], 2025.11
 
 - **PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions**
    *Yixuan Tang, Yi Yang, Ahmed Abbasi.* [[abs](https://arxiv.org/abs/2509.07370)]， 2025.09
