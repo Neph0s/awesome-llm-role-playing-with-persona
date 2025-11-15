@@ -105,6 +105,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization**
    *Xinge Ye, Rui Wang, Yuchuan Wu, Victor Ma, Feiteng Fang, Fei Huang, Yongbin Li.* [[abs](https://arxiv.org/abs/2508.09074)], Tongyi Lab, 2025.08
 
+- **CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learningwith Implicit Rule-Based Rewards**
+   *Cheng Liu, Yifei Lu, Fanghua Ye, Jian Li, Xingyu Chen, Feiliang Ren, Zhaopeng Tu, Xiaolong Li.* [[abs](https://arxiv.org/abs/2507.17147)], 2025.07
+
 
 *All*
 *Established Characters*
@@ -117,6 +120,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **RMTBench: Benchmarking LLMs Through Multi-Turn User-Centric Role-Playing**
    *Hao Xiang, Tianyi Tang, Yang Su, Bowen Yu, An Yang, Fei Huang, Yichang Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Jingren Zhou, Junyang Lin, Le Sun.* [[abs](https://arxiv.org/abs/2507.20352)], 2025.08
+
+- **CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learningwith Implicit Rule-Based Rewards**
+   *Cheng Liu, Yifei Lu, Fanghua Ye, Jian Li, Xingyu Chen, Feiliang Ren, Zhaopeng Tu, Xiaolong Li.* [[abs](https://arxiv.org/abs/2507.17147)], 2025.07
 
 - **Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation**
    *Jisu Shin, Juhyun Oh, Eunsu Kim, Hoyun Song, Alice Oh.* [[abs](https://aclanthology.org/2025.findings-acl.1349/)], Findings of ACL 2025
