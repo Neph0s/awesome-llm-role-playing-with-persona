@@ -112,6 +112,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 *All*
 *Established Characters*
 
+
+- **MOA: Multi-Objective Alignment for Role-Playing Agents**
+   *Chonghua Liao, Ke Wang, Yuchuan Wu, Fei Huang, Yongbin Li.* [[abs](https://www.arxiv.org/abs/2512.09756)],  2025.12
+
 - **Too Good to be Bad: On the Failure of LLMs to Role-Play Villains**
    *Zihao Yi, Qingxuan Jiang, Ruotian Ma, Xingyu Chen, Qu Yang, Mengru Wang, Fanghua Ye, Ying Shen, Zhaopeng Tu, Xiaolong Li, Linus.* [[abs](https://arxiv.org/abs/2511.04962)],  2025.11
 
@@ -618,6 +622,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Benchmark: RPBench Leaderboard**
    *Boson AI.* [[leaderboard](https://boson.ai/rpbench/)]
+
+- **Benchmark: Fiction.liveBench**
+   *Fiction.live.* [[benchmark](https://fiction.live/stories/Fiction-liveBench-Mar-14-2025/oQdzQvKHw8JyXbN87/home)]
 
 - **Model: Higgs-Llama-3-70B**
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
