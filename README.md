@@ -467,8 +467,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Modeling Earth-Scale Human-Like Societies with One Billion Agents**
    *Haoxiang Guan, Jiyan He, Liyang Fan, Zhenzhen Ren, Shaobin He, Xin Yu, Yuan Chen, Shuxin Zheng, Tie-Yan Liu, Zhen Liu.* [[abs](https://www.arxiv.org/abs/2506.12078)], 2025.06
 
-
-
+- **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**
+   *Yunzhe Wang, Gale M Lucas, Burcin Becerik-Gerber, Volkan Ustun* [[abs](https://arxiv.org/abs/2509.16457)], EMNLP 2025.
 
 
 
