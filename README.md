@@ -12,6 +12,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent personas and system prompts for Claude Code multi-agent orchestration. Each agent has distinct identity and role. MIT licensed.
 ## 🔔 News
  
 - **2024-10-09 🎉 Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
