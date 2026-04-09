@@ -108,9 +108,21 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learningwith Implicit Rule-Based Rewards**
    *Cheng Liu, Yifei Lu, Fanghua Ye, Jian Li, Xingyu Chen, Feiliang Ren, Zhaopeng Tu, Xiaolong Li.* [[abs](https://arxiv.org/abs/2507.17147)], 2025.07
 
+- **The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models**
+   *Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey.* [[abs](https://arxiv.org/pdf/2601.10387)], 2026.01
+
+- **Emotion Concepts and their Function in a Large Language Model**
+   *Nicholas Sofroniew, Isaac Kauvar, William Saunders, Runjin Chen, Tom Henighan, Sasha Hydrie, Craig Citro, Adam Pearce, Julius Tarng, Wes Gurnee, Joshua Batson, Sam Zimmerman, Kelley Rivoire, Kyle Fish, Chris Olah, Jack Lindsey.* [[web](https://transformer-circuits.pub/2026/emotions/index.html)], 2026.04
+
 
 *All*
 *Established Characters*
+
+- **HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**
+   *Chengyu Du, Xintao Wang, Aili Chen, Weiyuan Li, Rui Xu, Junteng Liu, Zishan Huang, Rong Tian, Zijun Sun, Yuhao Li, Liheng Feng, Deming Ding, Pengyu Zhao, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2601.21459)], Findings of ACL 2026
+
+- **HumanLLM: Benchmarking and Improving LLM Anthropomorphism via Human Cognitive Patterns**
+   *Xintao Wang, Jian Yang, Weiyuan Li, Rui Xie, Jen-tse Huang, Jun Gao, Shuai Huang, Yueping Kang, Liyuan Gou, Hongwei Feng, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2601.10198)], ACL 2026
 
 
 - **MOA: Multi-Objective Alignment for Role-Playing Agents**
@@ -630,6 +642,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
 
 #### 📰 Blogs
+
+- **[[Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)]**, Anthropic Blog, 2026.04
+
+- **[[The assistant axis: situating and stabilizing the character of large language models](https://www.anthropic.com/research/assistant-axis)]**, Anthropic Blog, 2026.01
 
 - **[[Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)]**, Anthropic Blog, 2025.08
 - 
