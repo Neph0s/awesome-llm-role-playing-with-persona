@@ -694,6 +694,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
    *Hua Xuan Qin, Shan Jin, Ze Gao, Mingming Fan, Pan Hui.' [[abs](https://dl.acm.org/doi/abs/10.1145/3613904.3642105)], CHI 2024.
 
 - **Stephanie: Step-by-Step Dialogues for Mimicking Human Interactions in Social Conversations**
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
    *Hao Yang, Hongyuan Lu, Xinhua Zeng, Yang Liu, Xiang Zhang, Haoran Yang, Yumeng Zhang, Yiran Wei, Wai Lam.* [[abs](https://arxiv.org/pdf/2407.04093)], 2024.07
 
 
