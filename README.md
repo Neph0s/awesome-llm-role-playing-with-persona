@@ -641,6 +641,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Model: Higgs-Llama-3-70B**
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
 
+- **AI Models Catalog**: Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities for model selection in role-playing applications. [[GitHub](https://github.com/i-need-token/ai-models)]
+
 #### 📰 Blogs
 
 - **[[Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)]**, Anthropic Blog, 2026.04
