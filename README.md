@@ -329,6 +329,15 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🤖 Personalization
 
+- **PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation**
+   *Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2606.05697)], 2026.06
+
+- **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**
+   *Nicolas Bougie, Gian Maria Marconi, Tony Yip, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2601.00930)], 2026.01
+
+- **SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**
+   *Nicolas Bougie, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2504.12722)], 2025.04
+
 - **Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale**
    *Bowen Jiang, Zhuoqun Hao, Young-Min Cho, Bryan Li, Yuan Yuan, Sihao Chen, Lyle Ungar, Camillo J. Taylor, Dan Roth* [[abs](https://arxiv.org/abs/2504.14225)], 2025.04
 
@@ -478,6 +487,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **Modeling Earth-Scale Human-Like Societies with One Billion Agents**
    *Haoxiang Guan, Jiyan He, Liyang Fan, Zhenzhen Ren, Shaobin He, Xin Yu, Yuan Chen, Shuxin Zheng, Tie-Yan Liu, Zhen Liu.* [[abs](https://www.arxiv.org/abs/2506.12078)], 2025.06
+
+- **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**
+   *Nicolas Bougie, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2506.21805)], 2025.06
 
 
 
