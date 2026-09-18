@@ -597,6 +597,7 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
   *Haofei Yu, Zhengyang Qi, Yining Zhao, Kolby Nottingham, Keyang Xuan, Bodhisattwa Prasad Majumder, Hao Zhu, Paul Pu Liang, Jiaxuan You.* [[abs](https://www.arxiv.org/abs/2508.03905)], 2025.08
 
 #### 🧠 Others <!---others-1-->
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 -  **Role-Play with Large Language Models**
    *Murray Shanahan, Kyle McDonell, and Laria Reynolds.*[[abs](https://arxiv.org/abs/2305.16367)], 2023.5
