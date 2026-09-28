@@ -12,6 +12,8 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 🤖 ![Last Commit](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers.svg)**[LLM Agent Papers](https://github.com/zjunlp/LLMAgentPapers):**  Must-read Papers on Large Language Model Agents.
 
+📖 ![Last Commit](https://img.shields.io/github/last-commit/yingpengma/Awesome-Story-Generation.svg)**[Awesome Story Generation](https://github.com/yingpengma/Awesome-Story-Generation):**  Papers on story generation with LLMs, from interactive drama and role-play within stories to long-form fiction.
+
 ## 🔔 News
  
 - **2024-10-09 🎉 Our survey paper"*From Persona to Personalization:A Survey on Role-Playing Language Agents"* [[arxiv](https://arxiv.org/abs/2404.18231)] has been accepted to TMLR!**
