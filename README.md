@@ -639,6 +639,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Benchmark: Fiction.liveBench**
    *Fiction.live.* [[benchmark](https://fiction.live/stories/Fiction-liveBench-Mar-14-2025/oQdzQvKHw8JyXbN87/home)]
 
+- **Benchmark: Solo R Benchmark Harness**
+   *Anthony "Othello" Merriweather.* [[github](https://github.com/O-word/solo-r-benchmark-harness)]
+
 - **Model: Higgs-Llama-3-70B**
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
 
