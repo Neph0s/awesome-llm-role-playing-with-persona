@@ -497,6 +497,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 #### 🎭 Personality Traits
 
+- **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure**
+   *Moritz Schlager, Friederike Jungmann, Samuel Schmidgall, Philipp Raffler, Franziska Hartl, Eva Wende, Paula Roßmüller, Conrad Ketzer, Matthew Thompson, Justin Anthony Chen, Christina Chen, Avinatan Hassidim, Dale R. Webster, Yossi Matias, Yun Liu, Daniel Rueckert, Mike Schaekermann, Paul Hager.* [[abs](https://arxiv.org/abs/2606.17441)], 2026.06
+
 - **Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI**
    *Sharan Maiya, Henning Bartsch, Nathan Lambert, Evan Hubinger.* [[abs](https://arxiv.org/pdf/2511.01689)], 2025.11
 
