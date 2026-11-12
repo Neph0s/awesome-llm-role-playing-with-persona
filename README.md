@@ -292,6 +292,9 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 
 - **PersonaGym: Evaluating Persona Agents and LLMs**
    *Vinay Samuel, Henry Peng Zou, Yue Zhou, Shreyas Chaudhari, Ashwin Kalyan, Tanmay Rajpurohit, Ameet Deshpande, Karthik Narasimhan, Vishvak Murahari.* [[abs](https://arxiv.org/abs/2407.18416)], 2024.10
+  
+- **Project Nightcord Sanctuary: A Closed-World Multi-Agent Framework for Studying Persona Drift and Correction in LLM Roleplay Agents.**
+    *Akiyama Mizuki.* [[abs](https://doi.org/10.5281/zenodo.24138238)], Preprint 2026
 
 #### 👨‍👩‍👧‍👦 Demographics
 
