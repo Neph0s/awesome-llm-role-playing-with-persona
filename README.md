@@ -642,6 +642,10 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Model: Higgs-Llama-3-70B**
    *Boson AI.* [[huggingface](https://huggingface.co/bosonai/Higgs-Llama-3-70B)]
 
+- **Tool: Tavern Reply Checker**
+   *zou-bo (maintainer).* [[code](https://github.com/agent-mcocdaa/tavern-reply-checker)] [[page](https://agent-mcocdaa.github.io/tavern-reply-checker/)]
+   *Offline, single-file counter for reply-level failures in exported role-play transcripts: replies that copy the user's own lines verbatim, canned phrases, mid-sentence cuts, CJK/Latin glitches, length drift. No model call, no upload; deterministic counts, so before/after claims about a preset or a model swap are re-derivable by hand.*
+
 #### 📰 Blogs
 
 - **[[Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)]**, Anthropic Blog, 2026.04
