@@ -327,6 +327,12 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**
    *Xuan Long Do, Kenji Kawaguchi, Min-Yen Kan, Nancy Chen.* [[abs](https://aclanthology.org/2025.coling-main.172.pdf)], COling 2025
 
+- **Political Bias in LLMs: Unaligned Moral Values in Agent-centric Simulations**
+   *Simon Münker.* [[abs](https://jlcl.org/article/view/289)], JLCL 2025
+
+- **Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**
+   *Simon Münker.* [[abs](https://arxiv.org/abs/2507.10073)], IACAP/AISB 2025
+
 #### 🤖 Personalization
 
 - **Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale**
@@ -496,6 +502,15 @@ This repo primarily focuses on **character role-playing**, such as fictional cha
 ### 🧠 Anthropomorphic Cognition
 
 #### 🎭 Personality Traits
+
+- **The Unsampled Truth: Quantifying Prompt Artifacts in LM Psychometrics**
+   *Nils Schwager, Christoph Hau, Simon Münker, Achim Rettinger.* [[abs](https://aclanthology.org/2026.findings-emnlp.1009/)], Findings of EMNLP 2026
+
+- **On the Impact of Item Order and Questionnaire Popularity for Language Model Construct Validity and Cross-Human Alignment**
+   *Simon Münker, Simon Werner, Achim Rettinger.* [[abs](https://link.springer.com/chapter/10.1007/978-3-032-41086-3_15)], Discovery Science 2026
+
+- **Fingerprinting LLMs through Survey Item Factor Correlation: A Case Study on Humor Style Questionnaire**
+   *Simon Münker.* [[abs](https://aclanthology.org/2025.emnlp-main.13/)], EMNLP 2025
 
 - **Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI**
    *Sharan Maiya, Henning Bartsch, Nathan Lambert, Evan Hubinger.* [[abs](https://arxiv.org/pdf/2511.01689)], 2025.11
